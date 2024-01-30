@@ -1,0 +1,25 @@
+name: General Comment
+description: Provide a general comment regarding Virtual Asset legislation.
+title: "[Comment]: "
+labels: ["general-comment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to contribute the betterment of the regulations on virtual assets.
+  - type: textarea
+    id: general-comment
+    attributes:
+      label: Comment
+      description: Write out your comment.
+      placeholder: He hath founded it upon the seas
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
