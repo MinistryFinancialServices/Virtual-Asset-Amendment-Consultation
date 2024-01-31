@@ -1,0 +1,1829 @@
+CAYMAN ISLANDS 
+
+VIRTUAL ASSET (SERVICE PROVIDERS) 
+ACT (2022 Revision) 
+Supplement No. 6 published with Legislation Gazette No. 7 dated 31st January, 2022. 
+ 
+ 
+PUBLISHING DETAILS 
+Law 14 of 2020 consolidated with Act 59 of 2020 and as amended by Law 56 of 2020. 
+Revised under the authority of the Law Revision Act (2020 Revision). 
+Originally enacted — 
+Law 14 of 2020-20th May, 2020 
+Law 35 of 2020-4th September, 2020 (date of assent) 
+Law 56 of 2020-7th December, 2020 
+Law 59 of 2020-16th December, 2020 
+Consolidated and revised this 31st day of December, 2021. 
+Revised as at 31st December, 2021 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Arrangement of Sections 
+Section 
+
+PART 1 - Preliminary 
+1. Short title and commencement 
+2. Interpretation 
+3. Meaning of “virtual asset service provider” 
+4. Registration or licence required 
+5. Fees 
+
+Part 2 – Registered persons and virtual asset service licensees 
+Registration 
+6. Application for registration 
+7. Registered person: virtual asset issuance 
+
+Virtual asset service licence 
+8. Application for virtual asset service licence 
+9. General requirements for virtual asset service providers 
+10. Requirements: virtual asset custody services 
+11. Requirements: virtual asset trading platforms 
+12. Issuance request 
+
+Directions to apply for licence 
+13. Directions to apply for licence under this Act 
+14. Directions to apply for a licence under another regulatory law 
+
+Existing licensee 
+15. Notice by existing licensee 
+16. Waiver 
+
+Part 3 – Sandbox licensees 
+17. Principles relating to sandbox licences 
+18. The sandbox licence 
+19. Application for a sandbox licence 
+20. Compliance with applicable requirements 
+21. Authority may amend, extend or revoke 
+
+Part 4 - Decisions to licence, register, approve issuances 
+22. Decisions by the Authority to licence or register 
+23. Decisions by the Authority to approve issuance of virtual assets 
+
+Part 5 – The Authority: powers and enforcement 
+24. Powers and duties of the Authority 
+25. Enforcement powers of the Authority 
+26. Direction to cease and desist 
+27. Revocation of licence 
+28. Shares not to be issued or transferred without the prior approval of the Authority 
+29. Guidance 
+
+Appeals 
+30. Appeals against decisions made by the Authority 
+31. Audit of accounts 
+32. Duty of auditor 
+33. Entry and search of premises 
+34. Winding up 
+
+Part 6 – General 
+35. Offence to carry on business without licence, registration or waiver 
+36. Offences by corporations, partnerships, limited liability partnerships, etc.
+37. Offences for which there is no penalty 
+38. Fitness and propriety 
+39. Regulations 
+40. Indemnity 
+41. Regulatory law 
+
+ENDNOTES 
+Table of Legislation history: 
+Table of endnote references: 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Virtual Asset (Service Providers) Act (2022 Revision) 
+
+Section 1 
+
+CAYMAN ISLANDS VIRTUAL ASSET (SERVICE PROVIDERS) ACT (2022 Revision) 
+
+Short title and commencement 
+
+PART 1 - Preliminary 
+
+1. This Act may be cited as the Virtual Asset (Service Providers) Act (2022 Revision) 
+and came into operation in accordance with the Virtual Asset (Service Providers) 
+Law, 2020 (Commencement) Order, 2020 [SL 137 of 2020] and the Virtual Asset 
+(Service Providers) (Amendment) Act, 2020 (Commencement) Order, 2021 [SL 1 of 
+2021]. Provisions not specified therein shall come into force on such date as the 
+Cabinet may by Order specify. 
+
+2. Interpretation 
+
+(1) In this Act — 
+
+“application fee” means the fee that is payable by an applicant for registration 
+or licensing under section 5(3); 
+
+“assessment fee” means the fee that is submitted with an application for 
+registration or a licence to the Authority under section 5(1); 
+
+“Authority” means the Cayman Islands Monetary Authority established under 
+section 5(1) of the Monetary Authority Act (2020 Revision) or such other 
+authority as the Cabinet may by order appoint; 
+
+“beneficial owner” has the same meaning as in regulation 2 of the Anti-Money 
+Laundering Regulations (2020 Revision); 
+
+“beneficiary”, in relation to a transfer of virtual asset, means the natural or legal 
+person or the legal arrangement that will own the virtual asset on completion of 
+a transfer; 
+
+“competent authority” has the same meaning as in section 2 of the Proceeds 
+of Crime Act (2020 Revision); 
+
+“exempted limited partnership” has the meaning assigned by section 2 of the 
+Exempted Limited Partnership Act (2021 Revision); 
+
+“existing licensee” means a person that is licensed under any of the other 
+regulatory laws and is not a virtual asset service licensee or a sandbox licensee 
+under this Act; 
+
+“fiat currency” means currency that is issued by the relevant body in a country 
+or by a government that is designated as legal tender in its country of issuance 
+through, among other things, government decree or law; 
+
+“Financial Action Task Force” means the task force established by the Group 
+of Seven to develop and promote national and international policies to combat 
+money laundering and terrorist financing; 
+
+“fintech service” means a service that uses innovative technology to improve, 
+change or enhance financial services but is not a virtual asset service; 
+
+“fintech service provider” means a person who is carrying on fintech service 
+in or from within the Islands but does not provide virtual asset service; 
+
+“issuance request” means a request submitted to the Authority prior to a virtual 
+asset issuance and containing such information as may be specified by the 
+Authority; 
+
+“issuance of virtual assets” or “virtual asset issuance” means the sale of 
+newly created virtual assets to the public in or from within the Islands in 
+exchange for fiat currency, other virtual assets or other consideration but does 
+not include the sale of virtual service tokens; 
+
+“limited liability partnership” means a limited liability partnership registered 
+under section 18(4) or 33(4) of the Limited Liability Partnership Act (2021 Revision);
+
+“newly created virtual assets” means virtual assets which have never been 
+sold, offered or distributed to the public; 
+
+“non high-risk jurisdiction” means any jurisdiction that — 
+ (a) is not on the list of high risk jurisdictions subject to a call for action issued 
+by the Financial Action Task Force; or 
+ (b) is not designated by the Cabinet as a jurisdiction which has serious 
+deficiencies in its compliance with recognised international standards for 
+combating money laundering and the financing of terrorism, under the Proceeds of Crime Act (2020 Revision); 
+
+“obliged entity” means a financial institution, person or group of persons that 
+provides a virtual asset service that is licensed or registered and is supervised 
+for virtual asset services by a government regulatory body in another non-high-
+risk jurisdiction;
+
+“operator”, in relation to a virtual asset trading platform, means a person or 
+group of persons that exerts effective control over the activities of a virtual asset 
+trading platform however, in the absence of a single entity or group that exerts 
+effective control over the platform, the operator shall be considered to be the 
+owner of the entity under which the platform operates; 
+
+“originator”, in relation to a transfer of virtual asset, means — 
+ (a) the natural person, legal person or legal arrangement that places an order 
+with the virtual asset service provider for the virtual asset transfer; or 
+ (b) where the transfer is carried out by a virtual asset service provider on behalf 
+of a client or other third party, the client or third party who owned the 
+virtual asset immediately before the transfer; 
+
+“partnership” has the meaning assigned by section 3 of the Partnership Act (2013 
+Revision);
+
+“registered person” means a person registered in accordance with section 6; 
+
+“regulatory laws” has the same meaning as in section 2 of the Monetary 
+Authority Act (2020 Revision); 
+
+“sandbox licence” means a licence that is granted in accordance with Part 3 of 
+this Act; 
+
+“securities investment business” has the same meaning as in section 2 of the 
+Securities Investment Business Act (2020 Revision); 
+
+“senior officer” means a director, managing director, president, chief executive 
+officer, partner, managing partner, general partner, ultimate partner, manager or 
+someone who has a similar control function; 
+
+“threshold”, in relation to a virtual asset issuance, means a prescribed amount 
+in fiat currency or equivalent that can be raised by the public issuance of virtual 
+assets within a given timeframe by the virtual asset issuer; 
+
+“transfer of virtual asset” means any transaction carried out on behalf of an 
+originator with a view to making the virtual asset available to a beneficiary; 
+
+“virtual asset” means a digital representation of value that can be digitally 
+traded or transferred and can be used for payment or investment purposes but 
+does not include a digital representation of fiat currencies; 
+
+“virtual asset custodian” means a licensee who provides virtual asset custody 
+services in or from within the Islands; 
+
+“virtual asset custody service” means the business of safekeeping or 
+administration of virtual assets or the instruments that enable the holder to 
+exercise control over virtual assets; 
+
+“virtual asset service” means the issuance of virtual assets or the business of 
+providing one or more of the following services or operations for or on behalf 
+of a natural or legal person or legal arrangement — 
+ (a) exchange between virtual assets and fiat currencies; 
+ (b) exchange between one or more other forms of convertible virtual assets; 
+ (c) transfer of virtual assets; 
+ (d) virtual asset custody service; or 
+ (e) participation in, and provision of, financial services related to a virtual 
+asset issuance or the sale of a virtual asset; 
+
+“virtual asset service licence” means a licence granted under section 8; 
+“virtual asset service provider” has the meaning set out in section 3; and 
+“virtual service token” means a digital representation of value which is not 
+transferrable or exchangeable with a third party at any time and includes digital 
+tokens whose sole function is to provide access to an application or service or 
+to provide a service or function directly to its owner. 
+
+(2) For the purposes of this Act, “virtual asset trading platform” means a 
+centralised or decentralised digital platform — 
+
+ (a) which facilitates the exchange of virtual assets for fiat currency or other 
+virtual assets on behalf of third parties for a fee, commission, spread or 
+other benefit; and 
+ (b) which — 
+  (i) holds custody of or controls virtual assets on behalf of its clients to 
+facilitate an exchange; or 
+  (ii) purchases virtual assets from a seller when transactions or bids and 
+offers are matched in order to sell them to a buyer, 
+
+and includes its owner or operator, but does not include a platform that only 
+provides a forum where sellers and buyers may post bids and offers and a forum 
+where the parties trade in a separate platform or in a peer-to-peer manner. 
+
+(3) For the purpose of the definition of “virtual asset trading platform”, where a 
+single entity or group that controls the platform cannot be identified, the 
+operator of the platform shall be deemed the owner of the entity under which 
+the platform operates. 
+
+3. Meaning of “virtual asset service provider” 
+
+(1) For the purposes of this Act, a person is a virtual asset service provider if the 
+person is — 
+
+ (a) a company incorporated under the Companies Act (2022 Revision); 
+ (b) a general partnership established under the Partnership Act (2013 
+Revision); 
+ (c) a limited partnership registered under the Partnership Act (2013 Revision); 
+ (d) an exempted limited partnership registered under the Exempted Limited 
+Partnership Act (2021 Revision); 
+ (e) a foreign company registered under Part IX of the Companies Act (2022 
+Revision); 
+ (f) a limited liability company formed and registered under the Limited 
+Liability Companies Act (2021 Revision); or 
+ (g) a limited liability partnership formed and registered under the Limited 
+Liability Partnership Act (2021 Revision), 
+
+and provides virtual asset service as a business or in the course of business in or 
+from within the Islands and is registered or licensed in accordance with this Act 
+or is an existing licensee that is granted a waiver by the Authority under section 
+16. 
+
+(2) For the purposes of this Act, virtual service tokens are not virtual assets and a 
+person or legal arrangement that provides services that involve virtual service 
+tokens only are not required to have a licence or registration under this Act. 
+
+4. Registration or licence required 
+
+(1) Subject to subsections (2) and (3), a person shall not carry on, or purport to carry 
+on, virtual asset service in or from within the Islands unless that person — 
+
+ (a) is a registered person; 
+ (b) in the case of the provision of virtual asset custodial services or the 
+operation of a virtual asset trading platform, holds a virtual asset service 
+licence; 
+ (c) is an existing licensee that has been granted a waiver from the Authority 
+under section 16; or 
+ (d) holds a sandbox licence, 
+
+in accordance with this Act. 
+
+(2) A natural person shall not carry on, or purport to carry on, in or from within the 
+Islands virtual asset service as a business or in the course of business. 
+
+(3) For the purposes of subsections (1) and (2), a person purports to carry on virtual 
+asset service where the person — 
+
+ (a) uses one or more words that connote virtual asset service either in English 
+or in any other language, in the description or title under which the person 
+carries on business; 
+ (b) makes a representation in a document or makes a representation in any 
+other manner that the person is carrying on virtual asset service; or 
+ (c) otherwise holds out as carrying on virtual asset service. 
+
+(4) A contract, transaction, obligation or instrument entered into by any person shall 
+not be rendered unenforceable because it was entered into in connection with 
+virtual asset service carried on by that person in contravention of subsection (1) 
+or (2). 
+
+5. Fees 
+
+(1) An application for registration or a licence shall be accompanied by the 
+prescribed non-refundable assessment fee under subsection (3). 
+
+(2) On the Authority’s decision to approve an application for registration or a 
+licence, the Authority shall notify the applicant of its approval and the applicant 
+shall pay the application fee as may be specified by the Authority. 
+
+(3) The application fee shall be such amount that is payable by an applicant for 
+registration or licensing after assessment and approval of the application by the 
+Authority, such fee being within the prescribed range and determined by the 
+Authority based on, but not limited to, the nature, size, scope and complexity of 
+the virtual asset service or fintech service set out in the application less the 
+assessment fee. 
+
+(4) The application fee shall be paid by the applicant no later than thirty days after 
+being notified of the fee by the Authority and where the fee is not paid the 
+approval shall be cancelled by the Authority. 
+
+(5) A licensee or a registered person shall, on or before 15th January in each year, 
+pay the prescribed renewal fee and there shall be payable by a licensee or 
+registered person who fails to pay the renewal fee by that date a surcharge of 
+one-twelfth of that fee for every month, or part of a month, after 15th January 
+in each year that the fee is not paid. 
+
+(6) The licence or registration in respect of which the renewal fee remains unpaid 
+for three full months after 15th January in any year shall lapse immediately but 
+if, within a period of one month after the date of lapse, the person who held the 
+licence or registration prior to its lapse pays — 
+
+ (a) the prescribed renewal fee; 
+ (b) the surcharges due under subsection (5); and 
+ (c) an administration fee of ten per cent of the renewal fee, 
+
+the licence or registration may be renewed for the period from 1st January to 
+31st December, inclusive, of the year in question. 
+
+(7) The Authority may, for good cause, waive any additional fee imposed under 
+subsection (5). 
+
+(8) If the prescribed renewal fee referred to in subsection (5) is not paid on or before 
+the 15th day of January in each year, the unpaid annual fee may be sued for by 
+the Crown by action as a civil debt and the Crown may require, and the court 
+may order, the payment of any penalties accrued in respect of the late payment 
+of the fee. 
+
+Part 2 – Registered persons and virtual asset service licensees 
+
+Application for registration 
+
+6. Registration 
+
+(1) Subject to subsection (3), a person, not being an existing licensee, who — 
+
+ (a) at the commencement of this Act is carrying on virtual asset service for 
+which a licence is not required under this Act; or 
+ (b) wishes to carry on virtual asset service for which a licence is not required 
+under this Act, 
+
+shall apply in the prescribed form to be a registered person under this Act and 
+submit the application along with the prescribed assessment fee to the Authority. 
+
+(2) The Authority in determining whether to approve the application from a person 
+in subsection (1), shall consider — 
+
+ (a) the matters set out in section 22; and 
+ (b) whether — 
+  (i) the applicant should apply instead for a virtual asset service licence 
+or a sandbox licence as the virtual asset service is one for which a 
+licence is required; or 
+  (ii) the applicant should apply instead for registration or a licence under 
+one of the other regulatory laws as the virtual asset service is similar 
+in nature to an activity or service for which registration or a licence 
+is required under another regulatory law and for which supervision 
+under this Act is not required. 
+
+(3) The Authority shall, further to its determination under subsection (2) that the 
+applicant is suitable to be registered, register the applicant upon payment of the 
+application fee or reject the application for registration if the applicant is found 
+to be unsuitable. 
+
+(4) Where an application for registration has not been approved, the Authority shall 
+notify the applicant of its decision and the reasons therefor. 
+
+(5) An applicant for registration or a registered person shall notify the Authority 
+within fifteen days of any changes to the information provided under subsection 
+(1) that occurs after submission of the application. 
+
+(6) If a registered person engages in activities for which a licence is required under 
+this Act, the Authority shall cancel the registration and require the registered 
+person to apply for a licence. 
+
+(7) A registered person shall not publicly state, imply or convey that it is licensed 
+or regulated in the Islands. 
+
+(8) An application under this section shall include such information as may be 
+prescribed and any information that the Authority requires in order to make a 
+determination. 
+
+(9) A person who contravenes subsection (5) commits an offence and is liable on 
+summary conviction to a fine of twenty thousand dollars. 
+
+7. Registered person: virtual asset issuance 
+
+(1) A registered person shall not issue virtual assets directly to members of the 
+public in excess of the prescribed threshold.2 
+
+(1A) A registered person shall, prior to issuing virtual assets, submit an issuance 
+request to the Authority in the prescribed form and obtain the approval of the 
+Authority prior to the issuance.3 
+
+(2) Where a virtual asset issuance is within the prescribed threshold and involves 
+the transfer or exchange of virtual assets or fiat currency, a registered person 
+shall maintain records containing such information as may be specified by the 
+Authority for every transaction of the issuance involving the public and the 
+registered person shall make the records available to the Authority when 
+requested. 
+
+(3) Notwithstanding subsections (1), (1A) and (2), a registered person may, in 
+accordance with subsection (4), engage one or more virtual asset trading 
+platforms that are obliged entities or licensed under this Act for the issuance of 
+newly created virtual assets over the prescribed threshold and the virtual assets 
+shall be issued by way of these virtual asset trading platforms.4 
+
+(4) A registered person under subsection (3) shall, prior to engaging an obliged or 
+licensed virtual asset trading platform for the issuance of newly created virtual 
+assets, submit a virtual asset issuance request to the Authority in the prescribed 
+form and obtain the approval of the Authority. 
+
+8. Application for virtual asset service licence 
+
+(1) A person who — 
+
+ (a) wishes to provide virtual asset custody services or wishes to operate a 
+virtual asset trading platform; 
+ (b) at the commencement of this Act is providing or operating any of the 
+services referred to in paragraph (a); 
+ (c) is an existing licensee under this Act and has been directed by the 
+Authority to obtain a virtual asset service licence; or 
+ (d) is providing virtual asset service and has been directed by the Authority to 
+obtain a virtual asset service licence, 
+
+may apply for a virtual asset service licence in the prescribed form. 
+
+(2) The Authority shall, in relation to an application received under subsection (1), 
+either — 
+
+ (a) grant a virtual asset service licence; 
+ (b) direct the applicant to apply for a sandbox licence in accordance with 
+section 19(1); 
+ (c) direct the applicant to apply for a licence under one of the other regulatory 
+laws where the virtual asset service is similar in nature to a service for 
+which registration or a licence is required under another regulatory law 
+and for which supervision under this Act is not required; or 
+ (d) refuse the application to grant the licence. 
+
+(3) An application under this section shall include such information as may be 
+prescribed and any additional information as may be specified by the Authority 
+that enables it to make a determination and the application shall be accompanied 
+by the prescribed assessment fee. 
+
+(4) The Authority in determining whether to approve the application from a person 
+in subsection (1), shall consider the matters set out in section 22 and whether — 
+
+ (a) an approval of the application is against the public interest; 
+ (b) the applicant has — 
+  (i) personnel with the necessary skills, knowledge and experience; 
+  (ii) facilities, books, records and accounting systems; 
+  (iii) adequate capital and cybersecurity measures, 
+as the Authority considers appropriate having regard to the size, scope and 
+complexity of the business; and 
+ (c) the applicant has complied with such other requirements under this Act for 
+which the Authority requests the applicant’s compliance, 
+
+and where the Authority is satisfied, it shall notify the applicant of its approval 
+of the application and the application fee under section 5(3). 
+
+(5) On payment of the application fee, the Authority shall grant the licence to the 
+applicant and the licence shall set out the specific service under subsection (1) 
+that the licensee is permitted to carry on. 
+
+(6) Where the Authority has granted a licence under this section, it shall, as soon as 
+reasonably possible after the grant, publish notification of such grant in the 
+Gazette. 
+
+(7) Where an application for a licence has not been approved, the Authority shall 
+notify the applicant of its decision and the reasons therefor. 
+
+(8) The Authority may impose — 
+
+ (a) regulatory requirements on a virtual asset service licensee as the Authority 
+considers necessary based on — 
+  (i) its assessment of the virtual asset service provided by the licensee;  
+  (ii) the nature of the supervision required for the virtual asset service; 
+  (iii) the safety and soundness of the method by which the virtual asset 
+service is offered to the public; or 
+  (iv) where applicable, any licence held under another regulatory law; and 
+ (b) further restrictions or prohibitions on the use of technology or practices 
+that, in the opinion of the Authority, may disrupt or prejudice — 
+  (i) the functions of the Authority; 
+  (ii) the interests of the public; or 
+  (iii) the financial services in the Islands. 
+
+(9) The Authority shall maintain a current register of licensees setting out the 
+business address of the licensee and details of the activities that the licensee is 
+permitted to carry on and such other information as may be prescribed. 
+
+(10) A licensee or an applicant for a licence shall notify the Authority within fifteen 
+days of any changes to the information provided under subsection (3) that occurs 
+after submission of the application. 
+
+9. General requirements for virtual asset service providers 
+
+(1) The Authority may, at the virtual asset service provider’s expense, require a 
+virtual asset service provider to provide an auditor’s report, prepared by an 
+independent auditor, on the anti-money laundering systems and procedures for 
+compliance with the Anti-Money Laundering Regulations (2020 Revision). 
+
+(2) A virtual asset service provider shall prepare accounts annually and make the 
+accounts available for inspection upon request by the Authority at the registered 
+office at such reasonable time as the Authority may specify. 
+
+(3) A virtual asset service provider shall — 
+ (a) ensure that — 
+  (i) its senior officers and trustees are fit and proper persons to hold the 
+respective positions; and 
+  (ii) its beneficial owners are fit and proper persons to have such control 
+or ownership; 
+ (b) take such steps as may be necessary to protect and secure the personal data 
+and virtual assets of its clients; 
+ (c) ensure that all communications relating to the virtual asset service are 
+accurate; 
+ (d) comply with the Anti-Money Laundering Regulations (2020 Revision) and 
+other laws relating to the combating of money laundering, terrorist 
+financing and proliferation financing; 
+ (e) for the purpose of ensuring compliance with the Anti-Money Laundering 
+Regulations (2020 Revision), put in place anti-money laundering systems 
+and procedures; and 
+ (f) designate an employee as the officer with responsibility for the procedures 
+for combating money laundering, terrorist financing and proliferation 
+financing. 
+
+(4) A virtual asset service provider shall — 
+
+ (a) have a registered office in the Islands; 
+ (b) provide documents, statements or such other information that may be 
+required by the Authority to enable it to properly perform any of its 
+functions under this Act; 
+ (c) notify the Authority of — 
+  (i) any licence or registration in another jurisdiction; 
+  (ii) the opening of an office or establishing a physical presence in another 
+jurisdiction; 
+  (iii) any penalties that are imposed or enforcement actions taken against 
+it in another jurisdiction; or 
+  (iv) the holding of, or the acquisition of, a controlling interest in another 
+person or legal arrangement engaged in virtual asset service; and 
+(d) provide such other information as may be specified by the Authority. 
+
+(5) When performing a transfer of virtual assets, a virtual asset service provider 
+shall collect and maintain information on the beneficiary and originator of the 
+transfer in accordance with the Anti-Money Laundering Regulations (2020 
+Revision) and any additional information specified by the Authority, for all 
+transfers performed and comply with any other requirements outlined therein 
+and the records shall — 
+
+ (a) be made available, at the request of the Authority or any competent 
+authority, through its registered office; and 
+ (b) where a request for information is made under paragraph (a), be provided 
+within forty-eight hours of receipt of the request. 
+
+(6) A virtual asset service provider shall not engage in securities investment 
+business unless the person is registered or is a licensee under the Securities 
+Investment Business Act (2020 Revision) or has been exempted from registration 
+or licensing by the Authority under the Securities Investment Business Act (2020 
+Revision).5 
+
+(7) The Authority may impose additional requirements specific to a virtual asset 
+service on a virtual asset service provider to ensure compliance with the Anti-
+Money Laundering Regulations (2020 Revision). 
+
+(8) A virtual asset service provider shall not appoint — 
+
+ (a) a senior officer or trustee; or 
+ (b) an anti-money laundering compliance officer, 
+
+without the prior approval of the Authority. 
+
+(9) The Authority shall not grant the approval specified in subsection (8) where a 
+senior officer, trustee or anti-money laundering compliance officer is not a fit 
+and proper person. 
+
+(10) For the purposes of this section, “accounts” include unaudited reports. 
+
+(11) A person who contravenes subsections (1) and (8) commits an offence and is 
+liable on summary conviction to a fine of twenty thousand dollars. 
+
+10. Requirements: virtual asset custody services 
+
+(1) The Authority may, where necessary, impose requirements on a licensee that 
+provides virtual asset custody services including — 
+
+ (a) net worth requirements; 
+ (b) reporting requirements; 
+ (c) disclosures to clients concerning the transparency of operations including 
+the risks associated with the custodial arrangements, internal safeguards, 
+the methods of access to virtual assets held and insurance arrangements; 
+ (e) requirements for the safekeeping of client assets, including the segregation 
+of assets, insurance requirements and cybersecurity measures; and 
+ (d) any other requirement the Authority determines is in the best interest of 
+the beneficial owners of the assets held by the licensee. 
+
+(2) A virtual asset custodian shall not, unless specifically agreed to by the beneficial 
+owners of the virtual assets — 
+
+ (a) encumber; or 
+ (b) have encumbered by a third party, 
+
+virtual asset deposits held on behalf of clients. 
+
+(3) A virtual asset service licensee that is providing virtual asset custody services 
+shall — 
+
+ (a) enter into a custodial arrangement with the owner of a virtual asset listing 
+at a minimum — 
+  (i) the manner in which the virtual assets are to be held; 
+  (ii) the transactions that the custodian is permitted to engage in and the 
+manner in which the transactions are to be conducted; 
+  (iii) disclosures relating to the risks present in the safekeeping of the 
+virtual assets and any mitigating factors; 
+  (iv) fees, spreads or other remuneration to the custodian; 
+  (v) the manner in which the client may access the virtual assets and how 
+the custodial arrangement may be terminated; 
+  (vi) information related to the licensee’s security safeguards; 
+  (vii) remedies available to the owner upon the unforeseeable loss of the 
+virtual assets by the custodian; and 
+  (vii) any other information specified by the Authority; 
+ (b) maintain information technology best practices relating to virtual assets 
+held in custody; 
+ (c) ensure that all ancillary or subsidiary proceeds relating to virtual assets 
+held in custody shall accrue to the benefit of the owner of the virtual asset 
+unless otherwise agreed to with the owner in writing; 
+ (d) take such steps as may be necessary to safeguard the virtual assets held on 
+behalf of third parties; and 
+(e) have adequate safeguards against theft and loss. 
+
+(4) A licensee providing virtual asset custody services shall comply with applicable 
+requirements under this section and a person who contravenes this provision 
+commits an offence and is liable on conviction to a fine of one hundred thousand 
+dollars. 
+
+11. Requirements: virtual asset trading platforms 
+
+(1) The Authority may, where necessary, impose requirements on a licensee that 
+operates a virtual asset trading platform including — 
+
+ (a) the nature of the access of users to the platform; 
+ (b) the type of client that it may market its services to; 
+ (c) the types of virtual assets that may, or may not, be traded on the virtual 
+asset trading platform; 
+ (d) requirements for the listing of virtual assets; 
+ (e) net worth and reporting requirements; 
+ (f) identification and management of conflicts of interest and price discovery 
+mechanisms to prevent price manipulation and other unfair trading 
+practices; 
+ (g) disclosures to clients concerning the transparency of operations of the 
+virtual asset trading platform including disclosures to clients on custodial 
+arrangements and insurance against theft or loss of assets;  
+ (h) the monitoring and supervision of trading activity that is taking place on 
+the virtual asset trading platform and the freezing and suspension of 
+trading of virtual assets; 
+ (i) the technology used in the operation of the trading platform including 
+information on the resiliency of the platform and cybersecurity safeguards 
+in place; 
+ (j) the clearing and settlement process for transactions between buyers and 
+sellers of virtual assets; 
+ (k) the provision of financing for the purchase of virtual assets; 
+ (l) controls to mitigate against money laundering, terrorist financing and 
+proliferation financing; and 
+ (m) any other requirement that the Authority considers to be in the best interest 
+of the users of the virtual asset trading platform. 
+
+(2) A licensee that operates a virtual asset trading platform shall not — 
+
+ (a) provide financing to its clients for the purchase of virtual assets unless 
+disclosures are made to clients regarding the terms of, and the risk of, the 
+financing; 
+ (b) engage in trading or market making behaviour for its own account which 
+could be detrimental to the interests of its clients unless these activities are 
+necessary for the operation of the virtual asset trading platform and these 
+activities have been disclosed to the clients of the platform; 
+ (c) allow a virtual asset to be traded on its platform unless it has assured itself 
+that the virtual asset is not presented in a deceiving manner or in a manner 
+that is meant to defraud holders of funds or value; 
+ (d) allow a client to purchase or trade in virtual assets unless the licensee has 
+assured itself that the client is aware of the risks of purchasing, holding or 
+trading the virtual asset and has provided disclosures in a form that the 
+client can understand; or 
+ (e) provide fiat currency to fiat currency exchange services to users of the 
+trading platform. 
+
+(3) The licensee shall carry out reasonable due diligence procedures on virtual 
+assets and their issuers that are listed on the platform. 
+
+(4) A licensee who is operating a virtual asset trading platform shall apply to the 
+Authority, in the prescribed form, for approval prior to engaging in securities 
+investment business which relates to virtual assets. 
+
+(5) On receipt of an application for approval under subsection (4), the Authority 
+shall determine whether registration or an additional licence is required under 
+the Securities Investment Business Act (2020 Revision) and shall notify the 
+applicant accordingly. 
+
+(6) In making a determination under subsection (5), the Authority shall assess 
+whether the virtual asset trading platform — 
+
+ (a) engages in, offers or facilitates securities investment business; 
+ (b) lists or facilitates the issuance of securities which are virtual assets in 
+accordance with the Securities Investment Business Act (2020 Revision); and 
+ (c) whether any additional supervision is required under the Securities 
+Investment Business Act (2020 Revision). 
+
+(7) The Authority may grant approval for the application under subsection (4) 
+where it considers that the activity is adequately supervised under this Act and 
+no additional supervision is required under the Securities Investment Business 
+Act (2020 Revision) and may impose additional regulatory requirements specific 
+to the activity carried out by the licensee. 
+
+(8) A licensee operating a virtual asset trading platform shall comply with the 
+applicable requirements under this section and section 12 and a person who 
+contravenes this provision commits an offence and is liable conviction to a fine 
+of one hundred thousand dollars. 
+
+12. Issuance request 
+
+(1) Subject to subsection (3), and where permitted under the terms of the respective 
+licence, a licensee who operates a virtual asset trading platform may issue virtual 
+assets on its own behalf directly to the public over the prescribed threshold by 
+submitting a virtual asset issuance request to the Authority and seeking approval 
+from the Authority prior to the issuance. 
+
+(2) A virtual asset trading platform that is licensed under this Act may issue virtual 
+assets on behalf of a virtual asset service provider directly to the public over the 
+prescribed threshold where — 
+
+ (a) it is permitted under the terms of its licence; and 
+ (b) the virtual asset service provider which is creating the virtual assets for the 
+issuance has obtained approval for the issuance. 
+
+(3) On approval of an issuance which is over the prescribed threshold, the Authority 
+may impose requirements in relation to — 
+
+ (a) the method by which the issuer may solicit members of the public to 
+participate in the issuance; 
+ (b) the information provided to the public relating to the issuance including 
+the disclosures of material risks associated with the virtual asset, use of 
+funds and terms and conditions of the issuance; 
+ (c) the information that the licensee is required to collect from members of the 
+public who participate in the issuance; and 
+ (d) the reporting requirements that are specific to the issuance and the intervals 
+by which the information is to be provided to the Authority, 
+
+and the licensee or any person acting on the licensee’s behalf shall comply with 
+these requirements. 
+
+(4) A licensee who issues virtual assets directly to the public shall not — 
+
+ (a) make any false, misleading or deceptive representations or omissions; or 
+ (b) engage in fraudulent activity. 
+
+(5) If a licensee operating a virtual asset trading platform which is facilitating the 
+issuance of newly created virtual assets on behalf of a virtual asset service 
+provider knows, or has reasonable grounds to believe, that the virtual asset 
+issuance does not comply with any applicable requirements, the licensee shall 
+immediately give the Authority written notice of its knowledge or belief, with 
+reasons. 
+
+(6) A person who contravenes subsection (5) commits an offence and is liable on 
+summary conviction to a fine of twenty thousand dollars. 
+
+13. Directions to apply for licence under this Act 
+
+(1) The Authority may require an existing licensee to apply for a licence under this 
+Act where the existing licensee is engaged in virtual asset service that is 
+determined by the Authority to be an activity that requires a licence under this 
+Act and is materially different from the business activity for which it is licensed 
+under another regulatory law and requires specific supervision under this Act. 
+
+(2) The licence under this Act shall be in addition to the licence held by the existing 
+licensee under another regulatory law. 
+
+14. Directions to apply for a licence under another regulatory law 
+
+14. The Authority may require a virtual asset service provider to apply for a licence under 
+any of the other regulatory laws, where the registered person or licensee is carrying 
+on business activity — 
+
+ (a) that is materially similar to business activity for which there is a licensing 
+regime under the other regulatory laws that provides sufficient oversight 
+and supervision for that business activity and, on approval of the licence 
+under one of the other regulatory laws, the Authority shall cancel the 
+registration or revoke the licence under this Act; or 
+ (b) that requires additional oversight that is provided for under a licensing 
+regime under the other regulatory laws and requires that the registered 
+person or licensee apply for the additional licence. 
+
+15. Notice by existing licensee 
+
+(1) An existing licensee who wishes to carry on virtual asset service shall notify the 
+Authority, in the manner specified by the Authority, advising of the nature and 
+scope of the virtual asset service that the existing licensee wishes to carry on. 
+
+(2) Subject to section 16, the Authority, in reviewing a notice from an existing 
+licensee shall make a determination regarding whether the existing licensee 
+is — 
+
+ (a) to be granted a waiver for registration or licensing under this Act in 
+accordance with section 16; 
+ (b) to apply for a virtual asset service licence; 
+ (c) to apply for a sandbox licence; 
+ (d) to apply for a licence under one of the other regulatory laws; or 
+ (e) to cease providing the virtual asset service. 
+
+(3) The Authority in reviewing a notice under this section shall take into 
+consideration the matters set out in section 22. 
+
+(4) An applicant shall provide such information that the Authority considers 
+necessary to make a determination under this section. 
+
+(5) A notice under this section is not required where an existing licensee is carrying 
+on activities that involve virtual service tokens only. 
+
+(5A) An existing licensee shall comply with any relevant provisions of this Act as the 
+Authority may require.6 
+
+(6) An existing licensee who fails to provide notice under subsection (1) commits 
+an offence and is liable on summary conviction to a fine of one hundred 
+thousand dollars. 
+
+16. Waiver 
+
+(1) Notwithstanding any other provision under this Act, the Authority may waive 
+the requirement for a licence or registration under this Act for an existing 
+licensee where the Authority determines that — 
+
+ (a) the virtual asset service does not materially change the nature of the 
+activity for which the existing licensee is licensed; and 
+ (b) the supervision and oversight carried out in relation to the business of the 
+existing licensee is sufficient to include the virtual asset service. 
+
+(2) An existing licensee who receives a waiver under this section shall notify the 
+Authority within fifteen days of any change to the information provided in the 
+notice under section 15(1). 
+
+(3) Notwithstanding the grant of a waiver to an existing licensee, the existing 
+licensee shall comply with any relevant provisions of this Act as the Authority 
+may require. 
+
+Part 3 – Sandbox licensees 
+
+17. Sandbox licensees shall comply with the sandbox principles of — 
+
+ (a) honesty; 
+ (b) integrity; 
+ (c) fair treatment of customers; 
+ (d) the protection of customer data and assets; and 
+ (e) such other principles as the Authority may prescribe by way of regulations 
+and publish on the Authority’s website. 
+
+18. The sandbox licence 
+
+(1) A sandbox licence is a temporary licence granted for a period of up to one year 
+and shall be subject to review at such time as the Authority may determine is 
+appropriate. 
+
+(2) The Authority shall assess, monitor and supervise the innovative service, 
+technology or method of delivery of a sandbox licensee with a view to ensuring 
+that — 
+
+ (a) the service, technology or method of delivery complies with the principles 
+under section 17; 
+ (b) the service, technology or method of delivery improves the provision of 
+financial services in the Islands; 
+ (c) the service, technology or method of delivery complies with global 
+standards and best practices for combating money laundering, terrorist 
+financing and proliferation financing; 
+ (d) the adoption of new financial services practices and technologies within 
+the Islands is facilitated; and 
+ (e) best practices and guidance are developed for the virtual asset service 
+sector. 
+
+19. Application for a sandbox licence 
+
+(1) The Authority may require — 
+
+(a) a person applying to be registered or a registered person; or 
+(b) a person applying for a virtual asset service licence or a virtual asset 
+service licensee, 
+
+to apply, instead, for a sandbox licence where the Authority determines that — 
+  (i) the virtual asset service represents an innovative use of technology 
+or uses an innovative method of delivery that requires supervision 
+and oversight that is not offered by a licence or registration under this 
+Act or any other law; 
+  (ii) it is in the best interest of the public, existing licensees, licensees, 
+registered persons or the financial markets for the virtual asset 
+service to be temporarily restricted or for specific requirements to be 
+placed temporarily on the provision of the virtual asset service; 
+  (iii) the virtual asset service uses or promotes technology or method of 
+delivery that may create systemic risk to the financial markets or 
+otherwise to the jurisdiction; or 
+  (iv) the virtual asset service poses a money laundering, terrorism 
+financing or proliferation financing risk that is not properly mitigated 
+by the Anti-Money Laundering Regulations (2020 Revision) or this 
+Act, 
+
+and the Authority shall cancel the registration or revoke the virtual asset service 
+licence where it has required the person to apply for a sandbox licence. 
+
+(2) A person under subsection (1) who has been directed by the Authority to apply 
+for a sandbox licence shall do so in the manner specified by the Authority and 
+shall provide such additional information in support of that application as the 
+Authority may specify. 
+
+(3) A fintech service provider may, but is not required to, apply for a sandbox 
+licence in such manner as may be specified by the Authority. 
+
+(4) An existing licensee who has provided notice and has been directed by the 
+Authority to apply for a sandbox licence shall do so in the manner specified by 
+the Authority. 
+
+(5) An applicant for a sandbox licence shall pay the prescribed assessment fee at 
+the time of submission of the application and the application fee as may be 
+specified by the Authority within thirty days of notification of approval for a 
+licence. 
+
+(6) Where the sandbox application fee remains unpaid within thirty days of 
+notification, the Authority shall cancel its approval of the sandbox licence. 
+
+(7) An applicant for a sandbox licence shall provide such additional information in 
+support of the application as the Authority may specify. 
+
+(8) The Authority in reviewing an application under this section shall take into 
+consideration the matters set out in section 22. 
+
+20. Compliance with applicable requirements 
+
+(1) Subject to subsection (2), a sandbox licensee that is a virtual asset service 
+provider shall comply with all requirements applicable to virtual asset service 
+providers in this Act. 
+
+(2) The Authority, where it grants a sandbox licence, may — 
+
+ (a) impose any of the requirements that are applicable to a virtual asset service 
+licensee; 
+ (b) impose restrictions that the Authority considers necessary to effectively 
+supervise, monitor and assess the virtual asset service or fintech service 
+and such restrictions may relate to — 
+  (i) the technologies or activities that may be provided;
+  (ii) a limit on the number or type of clients to whom the virtual asset 
+ service or fintech service may be offered; 
+  (iii) a limit on the value or amount of virtual asset service or fintech 
+service offered to clients; 
+  (iv) the imposition of reporting requirements at such intervals as the 
+Authority may require; 
+  (v) restrictions on the sandbox licensee’s advertising; or 
+  (vi) requirements for disclosures to be made to clients; 
+ (d) require that specified technical or operational functions relating to the 
+fintech service or the virtual asset service be maintained in the Islands to 
+facilitate the supervision of the service by the Authority; or 
+ (c) exempt the sandbox licensee from requirements that are applicable to 
+virtual asset service providers or modify any requirement in such manner 
+as the Authority considers appropriate; 
+(e) require a sandbox licensee who is a virtual asset service provider to comply 
+with the requirement under section 31(1), 
+
+and every imposition, exemption or modification by the Authority shall be in 
+writing. 
+
+(3) Where a requirement is imposed or an exemption or a modification is granted 
+under subsection (2), the Authority may impose such conditions that it considers 
+appropriate. 
+
+(4) The Authority shall not impose a requirement or grant an exemption or 
+modification under subsection (2) unless it is satisfied that it is appropriate to 
+do so. 
+
+(5) The Authority may remove a requirement, revoke an exemption or vary any 
+modification granted under this section and shall notify the sandbox licensee in 
+writing of its decision and the reason for its decision. 
+
+(6) Notwithstanding its powers under subsection (2), the Authority may, where it 
+has made a determination, take any action necessary, where the Authority is of 
+the opinion that the action is necessary for the protection of clients or potential 
+clients and in the interest of the public. 
+
+(7) Before taking any such action under subsection (6), the Authority shall notify 
+the sandbox licensee, in writing, of the actions to be taken and provide its 
+reasons for pursuing such action. 
+
+(8) A sandbox licensee served with a notice under subsection (7) may, within a 
+period of twenty-eight days from the date of the receipt of the notice, make 
+written representations to the Authority and where such representations are 
+made, the Authority shall take them into account in deciding whether to take the 
+proposed action but the Authority shall not be prevented from taking action 
+before the written representations are made. 
+
+(9) Where a licensed fintech service provider refers to its licence in any material 
+that is published, distributed or otherwise made available to the public, the 
+fintech service provider is required to state that the licence is a sandbox licence 
+under this Act. 
+
+21. Authority may amend, extend or revoke 
+
+(1) The Authority may — 
+
+ (a) amend the terms of or the restrictions on the sandbox licence; 
+ (b) extend the duration of the sandbox licence; 
+ (c) where the Authority determines that — 
+  (i) the sandbox licensee who is a virtual asset service provider has 
+contravened the Anti-Money Laundering Regulations (2020 Revision); or 
+  (ii) the virtual asset service provided by a sandbox licensee poses a 
+material risk to the welfare of the public and the stability of the 
+financial services in the Islands, 
+ (d) without prior notice, revoke the sandbox licence and require the licensee 
+to cease providing the virtual asset service in or from within the Islands; 
+revoke a sandbox licence and require the virtual asset service provider to 
+apply for registration or a virtual asset service licence under this Act 
+instead; or 
+(e) revoke a sandbox licence and require the virtual asset service provider to 
+apply for a licence under another regulatory law. 
+
+(2) The Authority may immediately revoke a sandbox licence held by a fintech 
+service provider at any time by providing notice in writing to the sandbox 
+licensee where — 
+(a) the licensee fails to comply with a requirement relating to its licence; or 
+(b) the Authority, in the performance of its functions under section 18(2), no 
+longer considers the sandbox licence necessary. 
+
+(3) A fintech service provider who holds a sandbox licence may choose to surrender 
+the licence at any time by providing notice to that effect to the Authority. 
+
+Part 4 - Decisions to licence, register, approve issuances 
+
+22. The Authority, in making a decision to grant a virtual asset service licence or a 
+sandbox licence, to register an applicant or to waive a requirement to licence or 
+register under this Act shall consider the following — 
+
+ (a) the size, scope and complexity of the virtual asset service, underlying 
+technology, method of delivery of the service and virtual asset utilised; 
+ (b) the knowledge, expertise and experience of the applicant; 
+ (c) the procedures that the applicant has in place to combat money laundering, 
+terrorist financing and proliferation financing; 
+ (d) the internal safeguards and data protection systems being utilised by the 
+applicant; 
+ (e) the similarity of the virtual asset service to securities investment business 
+as defined under the Securities Investment Business Act (2020 Revision) or 
+to any other regulated activity under any of the other regulatory laws; 
+ (f) the risks that the virtual asset service may pose to existing clients, future 
+clients, other licensees or to the financial system of the Islands;
+ (h) the net worth, capital reserves and financial stability of the applicant; 
+ (i) the impact that the virtual asset service may have on financial services in 
+the Islands; 
+ (g) whether the virtual asset service business involves the offering of virtual 
+asset custodial services or the operation of a virtual asset trading platform; 
+ (j) the likelihood that the service will promote innovation, competition and 
+benefits to consumers; 
+ (k) except for an applicant that is a fintech service provider, the applicant’s 
+ability to comply with this Act and the relevant requirements of the Anti-
+Money Laundering Regulations (2020 Revision); 
+ (l) the applicant’s senior officers and trustees are fit and proper persons to 
+hold the respective positions; 
+ (m) the applicant’s beneficial owners are fit and proper persons to have such 
+ownership or control; and 
+ (n) the applicant has paid the assessment fee. 
+
+23. Decisions by the Authority to approve issuance of virtual assets 
+
+(1) In determining whether to approve the issuance of virtual assets pursuant to a 
+request from a licensee or a registered person, the Authority shall consider the 
+following — 
+
+ (a) the nature of the virtual asset; 
+ (b) whether the virtual asset interferes with the functions of the Authority 
+relating to anti-money laundering, combating of terrorist financing and 
+anti-proliferation financing; 
+ (c) whether the issuance is harmful to critical or systemically important 
+entities, persons or processes, the local or global financial services markets 
+or the public generally; 
+ (d) whether the virtual asset is a security as defined by the Securities 
+Investment Business Act (2020 Revision); 
+ (e) the function and purpose of the virtual asset, and if applicable, the nature 
+of any underlying asset which the virtual asset may represent or may be a 
+derivative of; 
+ (f) whether the virtual asset service provider wishes to solicit the public 
+directly for the purchase of the virtual assets; 
+ (g) the total number of virtual assets that will be issued and available for 
+purchase by the issuance and the amount to be raised in the issuance; 
+ (h) the period of time during which the issuance will take place; 
+ (i) whether the virtual assets will be issued by way of an obliged virtual asset 
+trading platform or a virtual asset platform which is licensed under this 
+Act; 
+ (k) the anti-money laundering processes utilised by or available to the virtual 
+asset issuer; 
+ (j) the accuracy and completeness of disclosures to be made to the public 
+regarding the issuance of virtual assets; and 
+ (l) any other considerations that the Authority considers relevant. 
+
+(2) The Authority shall notify the virtual asset issuer who submitted the issuance 
+request of its decision within twenty-one days of receipt of the issuance request. 
+
+Part 5 – The Authority: powers and enforcement 
+
+24. Powers and duties of the Authority 
+
+(1) The Authority shall — 
+
+ (a) maintain a general review of the provision of virtual asset services in the 
+Islands, including taking reasonable measures to identify persons, 
+including natural persons, who are providing these services 
+in contravention of this Act, and submit an annual report of this review to the 
+Cabinet; 
+ (b) be responsible for supervision and enforcement in respect of virtual asset 
+service licensees, sandbox licensees and registered persons to whom this 
+Act applies and for the investigation of persons where the Authority 
+reasonably believes that they have contravened the licence or registration 
+provisions in this Act; 
+ (c) whenever the Authority considers it necessary, examine, the affairs or 
+business of any virtual asset service provider by way of the receipt of 
+regular returns, on-site inspections, auditor’s reports or in such other 
+manner as the Authority may determine, for the purpose of — 
+ (i) assessing whether a virtual asset service provider is undertaking its 
+authorised activities in accordance with this Act; 
+ (ii) confirming that the Anti-Money Laundering Regulations (2020 
+Revision) are being complied with; 
+ (iii) confirming that a licensee is in a sound financial position; 
+ (iv) assessing whether a licensee’s cybersecurity safeguard measures are 
+sufficient to protect client information and assets; or 
+ (v) carrying out any other functions of the Authority; 
+ (d) ensure that fintech and virtual asset services are offered in a manner that 
+accords with the public interest and is conducive to the growth of the 
+financial services industry; and 
+ (e) monitor regulatory requirements and the supervisory needs of virtual asset 
+service providers and make recommendations to the Ministry regarding 
+changes to the regulatory laws with a view to ensuring that the regulatory 
+laws provide an effective framework for the supervision of virtual asset 
+services and regulated activities that include the use of virtual assets. 
+
+(2) The Authority may, in writing, authorise any other person to assist it to carry 
+out its functions under this Act. 
+
+(3) A person who knowingly or recklessly provides any information to the 
+Authority which is false or misleading in a material respect commits an offence 
+and is liable on summary conviction to a fine of ten thousand dollars and to 
+imprisonment for six months. 
+
+(4) The Authority may, by Order, provide for the listing of newly created virtual 
+assets. 
+
+25. Enforcement powers of the Authority 
+
+(1) Without prejudice to any other action that may be instituted or taken against a 
+virtual asset service provider, if at any time it appears to the Authority that a 
+virtual asset service provider has failed to comply with any of the requirements 
+under this Act, the Authority may, by written notice, direct the virtual asset 
+service provider to comply with the requirement within such period of time and 
+on such terms and conditions as the Authority may specify and the virtual asset 
+service provider shall comply with the notice. 
+
+(2) The Authority may take any of the steps listed in subsection (3) if it knows, or 
+has reasonable grounds to believe, that a virtual asset service provider — 
+
+ (a) is, or appears likely to become, unable to meet its obligations as they fall 
+due; 
+ (b) is carrying on business fraudulently or otherwise in a manner detrimental 
+to the public interest, to the interest of its clients or to the interest of its 
+creditors; 
+ (c) has contravened any provision of this Act, or of any regulations made 
+hereunder, or of the Anti-Money Laundering Regulations (2020 Revision); 
+ (d) has failed to comply with a condition of the respective licence or 
+registration; 
+ (e) has not conducted the direction and management of its business in a fit and 
+proper manner; 
+ (f) has senior officers, trustees or persons who have acquired ownership or
+control who are not fit and proper persons; 
+ (g) is a “corporate services provider”, as defined in Part XVIIA of the 
+Companies Act (2022 Revision), Part 12 of the Limited Liability 
+Companies Act (2021 Revision) or Part 8 of the Limited Liability 
+Partnership Act (2021 Revision), and has contravened that Part; or 
+ (h) has failed to comply with a lawful direction from the Authority. 
+
+(3) The Authority may — 
+
+ (a) revoke the virtual asset service licence or a sandbox licence or cancel the 
+registration; 
+ (b) impose conditions or further conditions upon the licence or amend or 
+revoke any such conditions; 
+ (c) apply to the court for any order which is necessary to protect the interests 
+of clients or creditors of the licensee or registered person; 
+ (d) publish in the Gazette and in any official publications of the Authority, a 
+contravention by any person of this Act, of any regulations made 
+hereunder or of any lawful direction issued by the Authority; 
+ (e) at the expense of the virtual asset service provider, require the licensee or 
+registered person to obtain an auditor’s report on the licensee’s anti-money 
+laundering systems and procedures for compliance with the Anti-Money 
+Laundering Regulations (2020 Revision);
+ (f) require the substitution of any senior officer or trustee of the virtual asset 
+service provider whenever appointed, or the divestment of ownership or 
+control; 
+ (g) in the case of a reasonable belief that the virtual asset service provider has 
+contravened the Anti-Money Laundering Regulations (2020 Revision), 
+report the same to the Director of Public Prosecutions;
+ (h) require such action to be taken by the virtual asset service provider as the 
+Authority reasonably believes necessary for the purposes of dealing with 
+the circumstances referred to in paragraphs (a) to (g); 
+ (i) in the case of a virtual asset service provider who is also regulated or 
+supervised for virtual asset services in another jurisdiction, notify the 
+relevant regulator or government entity in the respective jurisdictions of 
+the failure to comply with the directive of the Authority; 
+ (j) at the expense of the licensee, appoint a person to advise the licensee on 
+the proper conduct of its affairs and to report to the Authority thereon; or 
+ (k) at the expense of the licensee, appoint a person who shall be known as the 
+Authority’s appointed controller, to assume control of the licensee’s affairs 
+who shall, subject to necessary modifications, have all the powers of a 
+person appointed as a receiver or manager of a business appointed under 
+section 18 of the Bankruptcy Act (1997 Revision). 
+
+
+(4) Where the Authority decides to take action under subsections (3)(a) to (3)(i), it 
+shall notify the virtual asset service provider in writing, specifying the 
+following — 
+
+ (a) the action that the Authority has taken or intends to take; 
+ (b) the reasons for the action, with reference to statutory provisions, and when 
+it is to take effect; 
+ (c) whether, in addition to the rights under paragraph (d), the virtual asset 
+service provider may make representations to the Authority within such 
+period as may be specified in the notification; and 
+ (d) the licensee’s right to appeal under section 30 and the procedure therefor. 
+
+(5) A person appointed under subsection (3)(j) or (3)(k) or whose appointment has 
+been extended under subsection (6)(b) shall, from time to time at the person’s 
+discretion and in any case within three months of the date of the appointment or 
+of the extension of the appointment, prepare and furnish to the Authority a report 
+of the affairs of the licensee and of the recommendations thereon. 
+
+(6) On receipt of a report under subsection (5), the Authority may — 
+
+ (a) revoke the appointment of the person appointed under subsection (3)(j) 
+or (3)(k); 
+ (b) extend the period of the appointment; 
+ (c) subject to such conditions as the Authority may impose, allow the licensee 
+or registered person to reorganise its affairs in a manner approved by the 
+Authority; or 
+ (d) revoke the licence and apply to the court for an order that the licensee, if 
+the licensee is a company, be wound up by the court in which case the 
+provisions of the Companies Act (2022 Revision) relating to the winding 
+up of a company shall apply. 
+
+(7) Notwithstanding any other provision in this Act, the Authority may revoke a 
+virtual asset service licence, a sandbox licence or cancel the registration if the 
+licensee or registered person has ceased, or wishes to cease, carrying on virtual 
+asset service, or has not commenced business within one year of the date of the 
+grant of the licence or the registration. 
+
+(8) Whenever the Authority revokes a licence or cancels a registration under this 
+section, notice of such revocation or cancellation shall be published forthwith 
+in the Gazette. 
+
+26. Direction to cease and desist 
+
+(1) Where the Authority is of the opinion that a virtual asset service provider is — 
+
+ (a) carrying out, or about to carry out, an act that is an unsafe or an unsound 
+practice in conducting the business of the virtual asset service provider; or 
+ (b) pursuing, or about to pursue, a course of conduct that is an unsafe or an 
+unsound practice in the conduct of the business of the virtual asset service 
+provider, 
+
+the Authority may direct the virtual asset service provider, in relation to the 
+virtual asset service, to cease or refrain from carrying out the act or pursuing the 
+course of conduct and to carry out such acts as are necessary, in the opinion of 
+the Authority, to remedy or ameliorate its conduct. 
+
+(2) A person who, without reasonable cause, fails to comply with a direction given 
+by the Authority under subsection (1), commits an offence and is liable — 
+ (a) on summary conviction, to a fine of fifty thousand dollars or to 
+imprisonment for one year, or to both; or 
+ (b) on conviction on indictment, to a fine of one hundred thousand dollars or 
+to imprisonment for five years or to both, 
+
+and if the offence continues after conviction, the person shall be liable to a fine 
+of ten thousand dollars for every day on which the offence continues. 
+
+(3) If the Authority knows, or has reasonable grounds to believe, that any of the acts 
+referred to in section 25(2)(b) through (g) have occurred in relation to a virtual 
+asset service provider, the virtual asset service provider commits a breach and 
+may be liable to an administrative fine by virtue of Part VIA of the Monetary 
+Authority Act (2020 Revision). 
+
+27. Revocation of licence 
+
+(1) The Authority may revoke a virtual asset service licence or a sandbox licence 
+where it is of the opinion that — 
+
+ (a) the licensee has failed to comply with an obligation imposed on it by this 
+Act; 
+ (b) the licensee is carrying on business in a manner that is not permitted by 
+the licence; 
+ (c) the Authority has been provided with false, misleading or inaccurate 
+information by or on behalf of the licensee or a person who is a senior 
+officer or trustee of the licensee; 
+ (d) the interests of the clients or potential clients of the licensee are threatened; 
+or  
+ (e) the licensee has contravened the Anti-Money Laundering Regulations 
+(2020 Revision).
+
+(2) Where the Authority revokes a virtual asset service licence under subsection (1), 
+it shall publish a notice to that effect forthwith in the Gazette. 
+
+28. Shares not to be issued or transferred without the prior approval of the 
+Authority 
+
+(1) No shares totalling ten per cent or more of the total shares in a company which 
+is a virtual asset service provider under this Act shall be issued, and no issued 
+shares or interests shall be voluntarily transferred or disposed of, without the 
+prior approval of the Authority. 
+
+(2) For the avoidance of doubt, where the virtual asset service provider is a 
+partnership, a partnership interest is equivalent to shares in a company. 
+
+(3) For the purposes of subsections (1) and (2), a virtual asset service provider shall 
+provide such information to the Authority, and within the specific time, as the 
+Authority may require for the purpose of assessing whether persons acquiring 
+control or ownership of such shares or partnership interest, as the case may be, 
+referred to in that subsection are fit and proper persons to have such control or 
+ownership. 
+
+(4) For the avoidance of doubt, references to shares representing ten per cent or 
+more of the total voting rights or ownership of a legal person include the 
+cumulative acquisition of shares, voting rights which amount to ten per cent or 
+more of the total voting rights of the legal person or legal arrangement and a 
+reference to shares being transferred or disposed of includes the transfer or 
+disposal of the legal or the beneficial interest in the shares or interests. 
+
+(5) In the event of shares in a company or the interests in a partnership which is a 
+virtual asset service provider vesting involuntarily or through process of law in 
+a person, the company or partnership, as soon as it becomes aware of such 
+vesting, shall inform the Authority of the number of shares or interests and the 
+identity of the person in whom the shares or interests have vested; and the 
+company or partnership and the person in whom they have vested shall comply 
+with any instructions as to the licence or registration or the business of the 
+company or partnership as may be given by the Authority. 
+
+(6) The Authority shall not grant the approval specified in subsection (1) where the 
+shareholder or partner of a virtual asset service provider is not a fit and proper 
+person. 
+
+(7) The Authority may exempt from the provisions of subsection (1) a virtual asset 
+service provider with ninety-five per cent or more of their shares publicly traded 
+on a stock exchange recognised by the Authority, and any such exemption — 
+
+ (a) shall be subject to the condition that the virtual asset service provider shall, 
+as soon as reasonably practicable, notify the Authority of — 
+  (i) any change in control of the virtual asset service provider; 
+  (ii) the acquisition by any person or group of persons of shares 
+representing more than ten per cent of the virtual asset service 
+provider’s issued share capital or total voting rights; or 
+  (iii) the acquisition by any person or group of persons of shares 
+representing more than ten per cent of the issued share capital or total 
+voting rights of the virtual asset service provider’s parent company; 
+ (b) shall be subject to a condition that the virtual asset service provider shall, 
+as soon as reasonably practicable, provide such information to the 
+Authority, within such period of time as the Authority may require, for the 
+purpose of enabling an assessment as to whether persons acquiring control 
+or ownership of the virtual asset service provider, in the circumstances set 
+out in paragraph (a), are fit and proper persons to have such control or 
+ownership; and 
+ (c) shall be subject to such terms and other conditions as the Authority 
+considers necessary. 
+
+(8) A person who contravenes this section commits an offence and is liable on 
+summary conviction to a fine of twenty thousand dollars. 
+
+29. Guidance 
+
+(1) The Authority may, after consultation with the Minister and such persons as the 
+Authority considers representative of the virtual asset service sector, issue 
+guidance notes for the purpose of giving practical guidance with respect to this 
+Act. 
+
+(2) The Authority shall publish in the Gazette any guidance notes and such notice 
+shall indicate the date on which the guidance notes come into effect. 
+
+(3) In determining whether a person has complied with any of the requirements 
+under this Act — 
+
+ (a) a court shall take into account any relevant guidance notes issued under 
+subsection (1) which apply to that person; and 
+ (b) a court may take into account any other relevant guidance issued by a body 
+that regulates, or is representative of, any trade, profession, business or 
+employment carried on by that person. 
+
+30. Appeals against decisions made by the Authority 
+
+(1) An appeal lies to the court from a decision of the Authority — 
+
+ (a) for the refusal to grant a licence or registration; 
+ (b) revocation of a licence; 
+ (c) cancellation of registration; 
+ (d) to take enforcement action under section 25; 
+ (e) for refusal of an application for virtual asset issuance; and 
+ (f) for refusal of an application of an existing licensee to engage in virtual 
+asset service. 
+
+(2) An appeal against the decision of the Authority shall be by way of motion. 
+
+(3) The appellant shall, within twenty-one days after the day on which the Authority 
+has given its decision, serve a notice of motion signed by the appellant or the 
+appellant’s attorney-at-law on the Authority of the intention to appeal and of the 
+general ground of the appeal. 
+
+(4) A person who is aggrieved by a decision of the Authority may, upon notice to 
+the Authority, apply to the court for leave to extend the time within which the 
+notice of appeal prescribed by this section may be served and the court, upon 
+the hearing of such application, may extend the time prescribed by this section 
+as it considers fit. 
+
+(5) The Authority shall, upon receiving the notice of appeal, transmit to the Clerk 
+of the court without delay a copy of the decision and all papers relating to the 
+appeal, but the Authority is not compelled to disclose any information if it is 
+considered that the public interest would suffer by such disclosure. 
+
+(6) At the hearing of the appeal the appellant shall, before going into the case, state 
+all the grounds of appeal on which the appellant intends to rely and shall not, 
+unless by leave of the court go into any matters not raised by such statements. 
+
+(7) The court may adjourn the hearing of an appeal and may, upon the hearing 
+thereof confirm, reverse, vary or modify the decision of the Authority or remit 
+the matter with the opinion of the court thereon to the Authority. 
+
+(8) An appeal against a decision of the Authority under this section shall not have 
+the effect of suspending the execution of the decision. 
+
+31. Audit of accounts 
+
+(1) A virtual asset service licensee shall have its accounts audited annually or at 
+such times as the Authority may require by an auditor approved by the Authority 
+who shall be a member of — 
+
+ (a) the Institute of Chartered Accountants in England and Wales; 
+ (b) the Canadian Institute of Chartered Accountants; 
+ (c) the Chartered Association of Certified Accountants; 
+ (d) the American Institute of Certified Public Accountants; or 
+ (e) such other accounting professional body or institute approved by the 
+Authority. 
+
+(2) Within six months of the end of a licensee’s financial year, the licensee shall 
+forward to the Authority the audited accounts for the financial year just ended. 
+
+(3) Any licensee who fails to comply with subsection (2) within the stated period 
+or any extension to the period granted by the Authority for good cause shown, 
+is liable to a late filing fee of fifty dollars for each day or part thereof that the 
+licensee fails to comply. 
+
+(4) The Authority may exempt a virtual asset service licensee from the audit 
+requirement under subsection (1) if the Authority determines the requirement to 
+be unnecessary or prohibitive given — 
+
+ (a) the size, scope and complexity of the economic activity; and 
+ (b) the availability of auditing services for the virtual asset service. 
+
+(5) When a licensee who is required to provide audited accounts to the Authority 
+changes its auditor, the Authority may require the former auditor to explain in 
+writing the circumstances giving rise to the change. 
+
+(6) If it appears to the Authority that an auditor has failed to comply with the 
+requirements in section 32(1), the Authority may disqualify the auditor from 
+being an auditor of a licensee but the Authority may remove any disqualification 
+imposed under this subsection if it is satisfied that the person in question will in 
+future comply with the requirements. 
+
+(7) A licensee shall not appoint as an auditor a person disqualified under subsection 
+
+32. Duty of auditor 
+
+(1) If an auditor, in the course of carrying out an audit or producing a report under 
+section 9 becomes aware of or has reasonable grounds to believe that the 
+licensee or registered person — 
+
+ (a) is or is likely to become unable to meet its obligations as they fall due; 
+ (b) carrying on or attempting to carry on business otherwise than in 
+compliance with — 
+  (i) this Act or any regulations made hereunder; 
+  (ii) Part XVIIA of the Companies Act (2022 Revision), Part 12 of the 
+Limited Liability Companies Act (2021 Revision) and Part 8 of the 
+Limited Liability Partnership Act (2021 Revision), if the licensee is a 
+“corporate services provider” as defined in that Part; 
+  (iii) the Anti-Money Laundering Regulations (2020 Revision); or 
+  (iv) a condition of the licence or registration; 
+ (c) is carrying on or attempting to carry on business in a manner that is 
+prejudicial to its clients or is winding up its business voluntarily in a 
+manner that is prejudicial to its clients or creditors; or 
+ (d) is carrying on or attempting to carry on business without maintaining any 
+or sufficient accounting records or record keeping systems to enable the 
+auditor to carry out an audit or produce a report, 
+
+the auditor shall immediately give the Authority and the licensee written notice 
+of the knowledge or belief and giving reasons therefor. 
+
+(2) An auditor who contravenes subsection (1) is liable to removal by the Authority 
+from its list of approved auditors. 
+
+(3) A reference in this section to an auditor carrying out an audit or preparing a 
+report on a licensee or registered person includes an auditor who was engaged 
+to carry out such an audit or prepare such a report or who was in the course of 
+so doing but resigned before completion or whose contract to carry out same 
+was otherwise terminated. 
+
+(4) No duty to which an auditor of a licensee or registered person may be subject 
+shall be regarded as being contravened by reason of the auditor communicating 
+in good faith to the Authority any information or opinion on a matter specified 
+in subsection (1) or providing any information or opinion in response to a 
+request made by the Authority pursuant to a power conferred by this Act. 
+
+(5) An auditor shall not be liable in damages for anything done or omitted to be 
+done in the discharge or proposed discharge of the auditor’s functions under this 
+Act in relation to the preparation of a report or in relation to any notice given 
+under subsection (1) unless it is shown that the act or omission was in bad faith. 
+
+33. Entry and search of premises 
+
+(1) If the court, on sworn information on oath, is satisfied that the conditions in 
+subsection (2) are fulfilled and either — 
+
+ (a) that admission to the premises has been refused, or that a refusal is 
+expected, and that reasonable notice of the intention to apply for the 
+warrant has been given to the occupier; 
+ (b) that an application for admission, or the giving of such a notice, would 
+defeat the object of the entry; or 
+ (c) that the case is one of urgency, or that the premises are unoccupied or that 
+the occupier is temporarily absent, 
+
+the court may, by warrant signed by a judge, authorise a constable of the rank 
+of inspector or above to enter the premises, if need be, by reasonable force. 
+
+(2) The conditions referred to in subsection (1) are that there are reasonable grounds 
+for suspecting that — 
+
+ (a) there is or has been, on the premises to which entry is sought, any 
+contravention of this Act or the Proceeds of Crime Act (2020 Revision); or 
+ (b) there is on those premises evidence of any contravention of this Act or — 
+  (i) the Proceeds of Crime Act (2020 Revision); 
+  (ii) Part XVIIA of the Companies Act (2022 Revision); 
+  (iii) Part 12 of the Limited Liability Companies Act (2021 Revision); or 
+  (iv) Part 8 of the Limited Liability Partnership Act (2021 Revision). 
+
+(3) Every warrant granted under this section shall continue in force for a period of 
+one month. 
+
+(4) A constable entering any premises by virtue of this section may be accompanied 
+by such employees of, or advisers to, the Authority as may be necessary to 
+ensure the successful execution of the warrant. 
+
+(5) The constable authorised by any such warrant to search any premises may, if so 
+authorised by the warrant, search every person who is found in those premises 
+and may seize any documents, computer hardware or mobile devices found in 
+the possession of any such person or in such premises which the constable has 
+reasonable ground for believing ought to have been produced pursuant to a 
+lawful request from the Authority. 
+
+(6) A person who wilfully obstructs a constable in the exercise of any powers 
+conferred on the constable by this section commits an offence and is liable on 
+summary conviction to a fine of one hundred thousand dollars and to 
+imprisonment for five years. 
+
+(7) The Rules Committee of the Grand Court may make rules for the purposes of 
+this section. 
+
+34. Winding up 
+
+(1) The Authority may apply to the court for a licensee or a registered person, or a 
+former licensee or registered person, that is or has been in contravention of 
+section 4(1) to be wound up by the court, notwithstanding any winding up of the 
+company voluntarily. 
+
+(2) On an application under subsection (1), the court may make an order for the 
+licensee or registered person to be wound up by the court if the court is of the 
+opinion that the winding up would be in the public interest in all the 
+circumstances of the case. 
+
+Part 6 – General 
+
+35. Offence to carry on business without licence, registration or waiver 
+
+(1) A person who carries on, or purports to carry on, virtual asset service in or from 
+within the Islands for which registration is required who is not a registered 
+person or the holder of a waiver under this Act, commits an offence and is liable 
+on summary conviction to a fine of twenty-five thousand dollars and to 
+imprisonment for one year. 
+
+(2) Where the offence under subsection (1) continues after conviction, the person 
+shall be liable to a fine of ten thousand dollars for each day during which the 
+offence continues. 
+
+(3) A person who carries on, or purports to carry on — 
+
+ (a) virtual asset custody services; or 
+ (b) operate a virtual asset trading platform, 
+
+in or from within the Islands who is not a licensee or is not a person who is in 
+receipt of a waiver under this Act, commits an offence and is liable on summary 
+conviction to a fine of one hundred thousand dollars and to imprisonment for 
+one year and in the case of a continuing offence, to a fine of ten thousand dollars 
+for each day during which the offence continues. 
+
+36. Offences by corporations, partnerships, limited liability partnerships, etc.
+
+(1) Where an offence is committed by a body corporate and it is proved to have 
+been committed with the consent or connivance of, or to be attributable to any 
+neglect on the part of any senior officer of the body corporate, or any person 
+who was purporting to act in any such capacity, that person as well as the body 
+corporate commits that offence and is liable to be proceeded against and 
+punished accordingly. 
+
+(2) Where the affairs of a body corporate are managed by its members, subsection 
+(1) shall apply in relation to the acts and defaults of a member in connection 
+with the member’s functions of management as if the member were a senior 
+officer of the body corporate. 
+
+(3) Where an offence under this Act is committed by a partnership, a limited 
+liability partnership or an exempted limited partnership and it is proved that 
+the offence — 
+
+ (a) was committed with the consent or connivance of; or  
+ (b) is attributable to any neglect on the part of, a partner concerned in the 
+management or control of a partnership or a limited liability partnership, or 
+a partner who takes part in the conduct of the business of an exempted limited 
+partnership, that partner, as well as the partnership, the limited liability 
+partnership or the exempted limited partnership, as applicable, commits the 
+offence and is liable to be proceeded against and punished accordingly. 
+
+(4) Where an offence under this Act is committed by an unincorporated 
+association other than a partnership, a limited liability partnership or an 
+exempted limited partnership and it is proved that the offence — 
+
+ (a) was committed with the consent or connivance of; or  
+ (b) is attributable to neglect on the part of, a person concerned in the 
+management or control of the unincorporated association, that person, as well 
+as the unincorporated association, commits the offence and is liable to be 
+proceeded against and punished accordingly.
+
+37. Offences for which there is no penalty 
+
+37. A person who contravenes any provision of this Act for which no penalty is 
+specifically provided commits an offence and is liable on summary conviction to a 
+fine of four thousand dollars. 
+
+38. Fitness and propriety 
+
+38. In determining whether a person is a fit and proper person, regard shall be had to all 
+circumstances including that person’s — 
+
+ (a) honesty, integrity and reputation; 
+ (b) competence and capability; and 
+ (c) financial soundness. 
+
+39. Regulations 
+
+(1) The Cabinet may, after consultation with the Authority, make regulations — 
+
+ (a) prescribing anything which is to be prescribed under this Act; and 
+ (b) generally for carrying the purposes and provisions of this Act into effect. 
+
+(2) Without prejudice to the generality of the foregoing, such regulations may in 
+respect of registered persons, virtual asset service licensees or sandbox 
+licensees — 
+
+ (a) specify standards for the form and content of any advertising or promotion 
+of virtual asset service; 
+ (b) require a registered person, a virtual asset service licensee or a sandbox 
+licensee to make full and proper disclosure to clients of the capacity in 
+which the registered person or licensee is acting in relation to a particular 
+virtual asset services transaction and whether the transaction is being 
+effected for the registered person’s or the licensee’s own account or that 
+of any person other than the client; 
+ (c) specify standards for dealings with clients and clients’ assets, including the 
+holding upon trust of clients’ assets by the registered person, virtual asset 
+service licensee or sandbox licensee; 
+ (d) establish financial requirements and specify standards for financial 
+conduct and record keeping and reporting; 
+ (e) specify disclosure requirements in respect of the amount, value or 
+arrangements for the payment or provision, of commissions or other 
+inducements; 
+ (f) specify arrangements for the settlement of disputes; and 
+ (g) specify the nature and extent of any insurance arrangements required of 
+the registered person, virtual asset service licensee or sandbox licensee. 
+
+(3) Regulations made under this Act may provide that the contravention of a 
+provision constitutes an offence and may prescribe penalties for any such 
+offence not exceeding the maximum fine and term of imprisonment for any 
+offence under this Act. 
+
+(4) Regulations made under this Act may provide for such savings, transitional and 
+consequential provisions to have effect in connection with the coming into 
+operation of any provision of this Act as are necessary or expedient. 
+
+(5) Regulations made under subsection (4) may be given retrospective operation to 
+a date that is not earlier than 31st October, 2020. 
+
+(6) Regulations which are given retrospective operation shall not — 
+
+ (a) affect in a prejudicial manner, rights existing before the date on which 
+those regulations come into force; or 
+ (b) impose liabilities in respect of anything done or omitted to be done before 
+the date on which those regulations come into force 
+
+40. Indemnity 
+
+40. Neither the Cabinet, nor a director or officer of the Authority nor any person 
+authorised in writing by the Authority to assist it in undertaking any of its functions 
+under this Act or appointed pursuant to section 25 shall be liable in damages for 
+anything done or omitted to be done in the discharge or purported discharge of their 
+functions under this Act, unless it is shown that the act or omission was in bad faith. 
+
+41. Regulatory law 
+
+41. This Act is a regulatory law for the purposes of the Monetary Authority Act (2020 
+Revision). 
+
+Publication in consolidated and revised form authorised by the Cabinet this 11th 
+day of January, 2022. 
+
+Kim Bullings 
+Clerk of the Cabinet 
+
+
+ENDNOTES 
+
+Table of Legislation history: 
+
+SL # 
+
+Law/Act # 
+
+Legislation 
+
+Commencement 
+
+Gazette 
+
+1/2021 
+
+Virtual Asset (Service Providers) (Amendment) Act, 2020 
+(Commencement) Order, 2021 
+
+11-Jan-2021 
+
+LG1/2021/s3 
+
+59/2020 
+
+Virtual Asset (Service Providers) (Amendment) Act, 2020 
+
+15-Jan-2021 
+
+LG1/2021/s3 
+
+56/2020 
+
+Citation of Acts of Parliament Act, 2020 
+
+35/2020 
+
+Civil Partnership Law, 2020 
+
+137/2020 
+
+Virtual Asset (Service Providers) Act, 2020 
+(Commencement) Order, 2020 
+
+3-Dec-2020 
+
+LG89/2020/s1 
+
+4-Sep-2020 
+
+LG64/2020/s1 
+
+28-Oct-2020 
+
+LG80/2020/s5 
+
+14/2020 
+
+Virtual Asset (Service Providers) Act, 2020 
+
+31-Jan-2021 
+
+LG40/2020/s1 
+
+   
