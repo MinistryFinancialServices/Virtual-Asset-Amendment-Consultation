@@ -1,0 +1,282 @@
+Virtual Asset (Service Providers) Act (2022 Revision) 
+
+Section 1 
+
+CAYMAN ISLANDS VIRTUAL ASSET (SERVICE PROVIDERS) ACT (2022 Revision) 
+
+Short title and commencement 
+
+PART 1 - Preliminary 
+
+1. This Act may be cited as the Virtual Asset (Service Providers) Act (2022 Revision) 
+and came into operation in accordance with the Virtual Asset (Service Providers) 
+Law, 2020 (Commencement) Order, 2020 [SL 137 of 2020] and the Virtual Asset 
+(Service Providers) (Amendment) Act, 2020 (Commencement) Order, 2021 [SL 1 of 
+2021]. Provisions not specified therein shall come into force on such date as the 
+Cabinet may by Order specify. 
+
+2. Interpretation 
+
+(1) In this Act — 
+
+“application fee” means the fee that is payable by an applicant for registration 
+or licensing under section 5(3); 
+
+“assessment fee” means the fee that is submitted with an application for 
+registration or a licence to the Authority under section 5(1); 
+
+“Authority” means the Cayman Islands Monetary Authority established under 
+section 5(1) of the Monetary Authority Act (2020 Revision) or such other 
+authority as the Cabinet may by order appoint; 
+
+“beneficial owner” has the same meaning as in regulation 2 of the Anti-Money 
+Laundering Regulations (2020 Revision); 
+
+“beneficiary”, in relation to a transfer of virtual asset, means the natural or legal 
+person or the legal arrangement that will own the virtual asset on completion of 
+a transfer; 
+
+“competent authority” has the same meaning as in section 2 of the Proceeds 
+of Crime Act (2020 Revision); 
+
+“exempted limited partnership” has the meaning assigned by section 2 of the 
+Exempted Limited Partnership Act (2021 Revision); 
+
+“existing licensee” means a person that is licensed under any of the other 
+regulatory laws and is not a virtual asset service licensee or a sandbox licensee 
+under this Act; 
+
+“fiat currency” means currency that is issued by the relevant body in a country 
+or by a government that is designated as legal tender in its country of issuance 
+through, among other things, government decree or law; 
+
+“Financial Action Task Force” means the task force established by the Group 
+of Seven to develop and promote national and international policies to combat 
+money laundering and terrorist financing; 
+
+“fintech service” means a service that uses innovative technology to improve, 
+change or enhance financial services but is not a virtual asset service; 
+
+“fintech service provider” means a person who is carrying on fintech service 
+in or from within the Islands but does not provide virtual asset service; 
+
+“issuance request” means a request submitted to the Authority prior to a virtual 
+asset issuance and containing such information as may be specified by the 
+Authority; 
+
+“issuance of virtual assets” or “virtual asset issuance” means the sale of 
+newly created virtual assets to the public in or from within the Islands in 
+exchange for fiat currency, other virtual assets or other consideration but does 
+not include the sale of virtual service tokens; 
+
+“limited liability partnership” means a limited liability partnership registered 
+under section 18(4) or 33(4) of the Limited Liability Partnership Act (2021 Revision);
+
+“newly created virtual assets” means virtual assets which have never been 
+sold, offered or distributed to the public; 
+
+“non high-risk jurisdiction” means any jurisdiction that — 
+ (a) is not on the list of high risk jurisdictions subject to a call for action issued 
+by the Financial Action Task Force; or 
+ (b) is not designated by the Cabinet as a jurisdiction which has serious 
+deficiencies in its compliance with recognised international standards for 
+combating money laundering and the financing of terrorism, under the Proceeds of Crime Act (2020 Revision); 
+
+“obliged entity” means a financial institution, person or group of persons that 
+provides a virtual asset service that is licensed or registered and is supervised 
+for virtual asset services by a government regulatory body in another non-high-
+risk jurisdiction;
+
+“operator”, in relation to a virtual asset trading platform, means a person or 
+group of persons that exerts effective control over the activities of a virtual asset 
+trading platform however, in the absence of a single entity or group that exerts 
+effective control over the platform, the operator shall be considered to be the 
+owner of the entity under which the platform operates; 
+
+“originator”, in relation to a transfer of virtual asset, means — 
+ (a) the natural person, legal person or legal arrangement that places an order 
+with the virtual asset service provider for the virtual asset transfer; or 
+ (b) where the transfer is carried out by a virtual asset service provider on behalf 
+of a client or other third party, the client or third party who owned the 
+virtual asset immediately before the transfer; 
+
+“partnership” has the meaning assigned by section 3 of the Partnership Act (2013 
+Revision);
+
+“registered person” means a person registered in accordance with section 6; 
+
+“regulatory laws” has the same meaning as in section 2 of the Monetary 
+Authority Act (2020 Revision); 
+
+“sandbox licence” means a licence that is granted in accordance with Part 3 of 
+this Act; 
+
+“securities investment business” has the same meaning as in section 2 of the 
+Securities Investment Business Act (2020 Revision); 
+
+“senior officer” means a director, managing director, president, chief executive 
+officer, partner, managing partner, general partner, ultimate partner, manager or 
+someone who has a similar control function; 
+
+“threshold”, in relation to a virtual asset issuance, means a prescribed amount 
+in fiat currency or equivalent that can be raised by the public issuance of virtual 
+assets within a given timeframe by the virtual asset issuer; 
+
+“transfer of virtual asset” means any transaction carried out on behalf of an 
+originator with a view to making the virtual asset available to a beneficiary; 
+
+“virtual asset” means a digital representation of value that can be digitally 
+traded or transferred and can be used for payment or investment purposes but 
+does not include a digital representation of fiat currencies; 
+
+“virtual asset custodian” means a licensee who provides virtual asset custody 
+services in or from within the Islands; 
+
+“virtual asset custody service” means the business of safekeeping or 
+administration of virtual assets or the instruments that enable the holder to 
+exercise control over virtual assets; 
+
+“virtual asset service” means the issuance of virtual assets or the business of 
+providing one or more of the following services or operations for or on behalf 
+of a natural or legal person or legal arrangement — 
+ (a) exchange between virtual assets and fiat currencies; 
+ (b) exchange between one or more other forms of convertible virtual assets; 
+ (c) transfer of virtual assets; 
+ (d) virtual asset custody service; or 
+ (e) participation in, and provision of, financial services related to a virtual 
+asset issuance or the sale of a virtual asset; 
+
+“virtual asset service licence” means a licence granted under section 8; 
+“virtual asset service provider” has the meaning set out in section 3; and 
+“virtual service token” means a digital representation of value which is not 
+transferrable or exchangeable with a third party at any time and includes digital 
+tokens whose sole function is to provide access to an application or service or 
+to provide a service or function directly to its owner. 
+
+(2) For the purposes of this Act, “virtual asset trading platform” means a 
+centralised or decentralised digital platform — 
+
+ (a) which facilitates the exchange of virtual assets for fiat currency or other 
+virtual assets on behalf of third parties for a fee, commission, spread or 
+other benefit; and 
+ (b) which — 
+  (i) holds custody of or controls virtual assets on behalf of its clients to 
+facilitate an exchange; or 
+  (ii) purchases virtual assets from a seller when transactions or bids and 
+offers are matched in order to sell them to a buyer, 
+
+and includes its owner or operator, but does not include a platform that only 
+provides a forum where sellers and buyers may post bids and offers and a forum 
+where the parties trade in a separate platform or in a peer-to-peer manner. 
+
+(3) For the purpose of the definition of “virtual asset trading platform”, where a 
+single entity or group that controls the platform cannot be identified, the 
+operator of the platform shall be deemed the owner of the entity under which 
+the platform operates. 
+
+3. Meaning of “virtual asset service provider” 
+
+(1) For the purposes of this Act, a person is a virtual asset service provider if the 
+person is — 
+
+ (a) a company incorporated under the Companies Act (2022 Revision); 
+ (b) a general partnership established under the Partnership Act (2013 
+Revision); 
+ (c) a limited partnership registered under the Partnership Act (2013 Revision); 
+ (d) an exempted limited partnership registered under the Exempted Limited 
+Partnership Act (2021 Revision); 
+ (e) a foreign company registered under Part IX of the Companies Act (2022 
+Revision); 
+ (f) a limited liability company formed and registered under the Limited 
+Liability Companies Act (2021 Revision); or 
+ (g) a limited liability partnership formed and registered under the Limited 
+Liability Partnership Act (2021 Revision), 
+
+and provides virtual asset service as a business or in the course of business in or 
+from within the Islands and is registered or licensed in accordance with this Act 
+or is an existing licensee that is granted a waiver by the Authority under section 
+16. 
+
+(2) For the purposes of this Act, virtual service tokens are not virtual assets and a 
+person or legal arrangement that provides services that involve virtual service 
+tokens only are not required to have a licence or registration under this Act. 
+
+4. Registration or licence required 
+
+(1) Subject to subsections (2) and (3), a person shall not carry on, or purport to carry 
+on, virtual asset service in or from within the Islands unless that person — 
+
+ (a) is a registered person; 
+ (b) in the case of the provision of virtual asset custodial services or the 
+operation of a virtual asset trading platform, holds a virtual asset service 
+licence; 
+ (c) is an existing licensee that has been granted a waiver from the Authority 
+under section 16; or 
+ (d) holds a sandbox licence, 
+
+in accordance with this Act. 
+
+(2) A natural person shall not carry on, or purport to carry on, in or from within the 
+Islands virtual asset service as a business or in the course of business. 
+
+(3) For the purposes of subsections (1) and (2), a person purports to carry on virtual 
+asset service where the person — 
+
+ (a) uses one or more words that connote virtual asset service either in English 
+or in any other language, in the description or title under which the person 
+carries on business; 
+ (b) makes a representation in a document or makes a representation in any 
+other manner that the person is carrying on virtual asset service; or 
+ (c) otherwise holds out as carrying on virtual asset service. 
+
+(4) A contract, transaction, obligation or instrument entered into by any person shall 
+not be rendered unenforceable because it was entered into in connection with 
+virtual asset service carried on by that person in contravention of subsection (1) 
+or (2). 
+
+5. Fees 
+
+(1) An application for registration or a licence shall be accompanied by the 
+prescribed non-refundable assessment fee under subsection (3). 
+
+(2) On the Authority’s decision to approve an application for registration or a 
+licence, the Authority shall notify the applicant of its approval and the applicant 
+shall pay the application fee as may be specified by the Authority. 
+
+(3) The application fee shall be such amount that is payable by an applicant for 
+registration or licensing after assessment and approval of the application by the 
+Authority, such fee being within the prescribed range and determined by the 
+Authority based on, but not limited to, the nature, size, scope and complexity of 
+the virtual asset service or fintech service set out in the application less the 
+assessment fee. 
+
+(4) The application fee shall be paid by the applicant no later than thirty days after 
+being notified of the fee by the Authority and where the fee is not paid the 
+approval shall be cancelled by the Authority. 
+
+(5) A licensee or a registered person shall, on or before 15th January in each year, 
+pay the prescribed renewal fee and there shall be payable by a licensee or 
+registered person who fails to pay the renewal fee by that date a surcharge of 
+one-twelfth of that fee for every month, or part of a month, after 15th January 
+in each year that the fee is not paid. 
+
+(6) The licence or registration in respect of which the renewal fee remains unpaid 
+for three full months after 15th January in any year shall lapse immediately but 
+if, within a period of one month after the date of lapse, the person who held the 
+licence or registration prior to its lapse pays — 
+
+ (a) the prescribed renewal fee; 
+ (b) the surcharges due under subsection (5); and 
+ (c) an administration fee of ten per cent of the renewal fee, 
+
+the licence or registration may be renewed for the period from 1st January to 
+31st December, inclusive, of the year in question. 
+
+(7) The Authority may, for good cause, waive any additional fee imposed under 
+subsection (5). 
+
+(8) If the prescribed renewal fee referred to in subsection (5) is not paid on or before 
+the 15th day of January in each year, the unpaid annual fee may be sued for by 
+the Crown by action as a civil debt and the Crown may require, and the court 
+may order, the payment of any penalties accrued in respect of the late payment 
+of the fee. 

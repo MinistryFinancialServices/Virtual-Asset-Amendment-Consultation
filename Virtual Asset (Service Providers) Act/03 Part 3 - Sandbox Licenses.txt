@@ -1,0 +1,183 @@
+Part 3 – Sandbox licensees 
+
+17. Sandbox licensees shall comply with the sandbox principles of — 
+
+ (a) honesty; 
+ (b) integrity; 
+ (c) fair treatment of customers; 
+ (d) the protection of customer data and assets; and 
+ (e) such other principles as the Authority may prescribe by way of regulations 
+and publish on the Authority’s website. 
+
+18. The sandbox licence 
+
+(1) A sandbox licence is a temporary licence granted for a period of up to one year 
+and shall be subject to review at such time as the Authority may determine is 
+appropriate. 
+
+(2) The Authority shall assess, monitor and supervise the innovative service, 
+technology or method of delivery of a sandbox licensee with a view to ensuring 
+that — 
+
+ (a) the service, technology or method of delivery complies with the principles 
+under section 17; 
+ (b) the service, technology or method of delivery improves the provision of 
+financial services in the Islands; 
+ (c) the service, technology or method of delivery complies with global 
+standards and best practices for combating money laundering, terrorist 
+financing and proliferation financing; 
+ (d) the adoption of new financial services practices and technologies within 
+the Islands is facilitated; and 
+ (e) best practices and guidance are developed for the virtual asset service 
+sector. 
+
+19. Application for a sandbox licence 
+
+(1) The Authority may require — 
+
+(a) a person applying to be registered or a registered person; or 
+(b) a person applying for a virtual asset service licence or a virtual asset 
+service licensee, 
+
+to apply, instead, for a sandbox licence where the Authority determines that — 
+  (i) the virtual asset service represents an innovative use of technology 
+or uses an innovative method of delivery that requires supervision 
+and oversight that is not offered by a licence or registration under this 
+Act or any other law; 
+  (ii) it is in the best interest of the public, existing licensees, licensees, 
+registered persons or the financial markets for the virtual asset 
+service to be temporarily restricted or for specific requirements to be 
+placed temporarily on the provision of the virtual asset service; 
+  (iii) the virtual asset service uses or promotes technology or method of 
+delivery that may create systemic risk to the financial markets or 
+otherwise to the jurisdiction; or 
+  (iv) the virtual asset service poses a money laundering, terrorism 
+financing or proliferation financing risk that is not properly mitigated 
+by the Anti-Money Laundering Regulations (2020 Revision) or this 
+Act, 
+
+and the Authority shall cancel the registration or revoke the virtual asset service 
+licence where it has required the person to apply for a sandbox licence. 
+
+(2) A person under subsection (1) who has been directed by the Authority to apply 
+for a sandbox licence shall do so in the manner specified by the Authority and 
+shall provide such additional information in support of that application as the 
+Authority may specify. 
+
+(3) A fintech service provider may, but is not required to, apply for a sandbox 
+licence in such manner as may be specified by the Authority. 
+
+(4) An existing licensee who has provided notice and has been directed by the 
+Authority to apply for a sandbox licence shall do so in the manner specified by 
+the Authority. 
+
+(5) An applicant for a sandbox licence shall pay the prescribed assessment fee at 
+the time of submission of the application and the application fee as may be 
+specified by the Authority within thirty days of notification of approval for a 
+licence. 
+
+(6) Where the sandbox application fee remains unpaid within thirty days of 
+notification, the Authority shall cancel its approval of the sandbox licence. 
+
+(7) An applicant for a sandbox licence shall provide such additional information in 
+support of the application as the Authority may specify. 
+
+(8) The Authority in reviewing an application under this section shall take into 
+consideration the matters set out in section 22. 
+
+20. Compliance with applicable requirements 
+
+(1) Subject to subsection (2), a sandbox licensee that is a virtual asset service 
+provider shall comply with all requirements applicable to virtual asset service 
+providers in this Act. 
+
+(2) The Authority, where it grants a sandbox licence, may — 
+
+ (a) impose any of the requirements that are applicable to a virtual asset service 
+licensee; 
+ (b) impose restrictions that the Authority considers necessary to effectively 
+supervise, monitor and assess the virtual asset service or fintech service 
+and such restrictions may relate to — 
+  (i) the technologies or activities that may be provided;
+  (ii) a limit on the number or type of clients to whom the virtual asset 
+ service or fintech service may be offered; 
+  (iii) a limit on the value or amount of virtual asset service or fintech 
+service offered to clients; 
+  (iv) the imposition of reporting requirements at such intervals as the 
+Authority may require; 
+  (v) restrictions on the sandbox licensee’s advertising; or 
+  (vi) requirements for disclosures to be made to clients; 
+ (d) require that specified technical or operational functions relating to the 
+fintech service or the virtual asset service be maintained in the Islands to 
+facilitate the supervision of the service by the Authority; or 
+ (c) exempt the sandbox licensee from requirements that are applicable to 
+virtual asset service providers or modify any requirement in such manner 
+as the Authority considers appropriate; 
+(e) require a sandbox licensee who is a virtual asset service provider to comply 
+with the requirement under section 31(1), 
+
+and every imposition, exemption or modification by the Authority shall be in 
+writing. 
+
+(3) Where a requirement is imposed or an exemption or a modification is granted 
+under subsection (2), the Authority may impose such conditions that it considers 
+appropriate. 
+
+(4) The Authority shall not impose a requirement or grant an exemption or 
+modification under subsection (2) unless it is satisfied that it is appropriate to 
+do so. 
+
+(5) The Authority may remove a requirement, revoke an exemption or vary any 
+modification granted under this section and shall notify the sandbox licensee in 
+writing of its decision and the reason for its decision. 
+
+(6) Notwithstanding its powers under subsection (2), the Authority may, where it 
+has made a determination, take any action necessary, where the Authority is of 
+the opinion that the action is necessary for the protection of clients or potential 
+clients and in the interest of the public. 
+
+(7) Before taking any such action under subsection (6), the Authority shall notify 
+the sandbox licensee, in writing, of the actions to be taken and provide its 
+reasons for pursuing such action. 
+
+(8) A sandbox licensee served with a notice under subsection (7) may, within a 
+period of twenty-eight days from the date of the receipt of the notice, make 
+written representations to the Authority and where such representations are 
+made, the Authority shall take them into account in deciding whether to take the 
+proposed action but the Authority shall not be prevented from taking action 
+before the written representations are made. 
+
+(9) Where a licensed fintech service provider refers to its licence in any material 
+that is published, distributed or otherwise made available to the public, the 
+fintech service provider is required to state that the licence is a sandbox licence 
+under this Act. 
+
+21. Authority may amend, extend or revoke 
+
+(1) The Authority may — 
+
+ (a) amend the terms of or the restrictions on the sandbox licence; 
+ (b) extend the duration of the sandbox licence; 
+ (c) where the Authority determines that — 
+  (i) the sandbox licensee who is a virtual asset service provider has 
+contravened the Anti-Money Laundering Regulations (2020 Revision); or 
+  (ii) the virtual asset service provided by a sandbox licensee poses a 
+material risk to the welfare of the public and the stability of the 
+financial services in the Islands, 
+ (d) without prior notice, revoke the sandbox licence and require the licensee 
+to cease providing the virtual asset service in or from within the Islands; 
+revoke a sandbox licence and require the virtual asset service provider to 
+apply for registration or a virtual asset service licence under this Act 
+instead; or 
+(e) revoke a sandbox licence and require the virtual asset service provider to 
+apply for a licence under another regulatory law. 
+
+(2) The Authority may immediately revoke a sandbox licence held by a fintech 
+service provider at any time by providing notice in writing to the sandbox 
+licensee where — 
+(a) the licensee fails to comply with a requirement relating to its licence; or 
+(b) the Authority, in the performance of its functions under section 18(2), no 
+longer considers the sandbox licence necessary. 
+
+(3) A fintech service provider who holds a sandbox licence may choose to surrender 
+the licence at any time by providing notice to that effect to the Authority.
