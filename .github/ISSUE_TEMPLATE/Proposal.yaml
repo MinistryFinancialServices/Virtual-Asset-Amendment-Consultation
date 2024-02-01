@@ -1,0 +1,49 @@
+name: Proposed Change
+description: Propose a change in existing legislation
+title: "[Change]: "
+labels: ["legislation-change"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to contribute the betterment of the regulations on virtual assets.
+  - type: input
+    id: legislation-name
+    attributes:
+      label: Affected Legislation 
+      description: Which piece of legislation are you proposing a change for?
+      placeholder: ex. Virtual Asset (Service Providers) Act (2022 Revision)
+    validations:
+      required: true
+  - type: input
+    id: legislation-section
+    attributes:
+      label: Affected Section
+      description: Which section of the affected legislation are you proposing a change for?
+      placeholder: ex. Notice by existing licensee 15.(2).(a)
+    validations:
+      required: true
+  - type: textarea
+    id: legislation-proposal
+    attributes:
+      label: Proposed Changes
+      description: Describe how you would change the affected section of legislation.
+      placeholder: Replace "I" with "Them"
+    validations:
+      required: true
+  - type: textarea
+    id: legislation-reason
+    attributes:
+      label: Proposal Reasoning
+      description: Why do you believe this legislation should be changed in this way?
+      placeholder: He hath founded it upon the seas
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/MinistryFinancialServices/Virtual-Asset-Amendment-Consultation/blob/0e461583707273b7eceee4afbe500d13701bb8d1/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
