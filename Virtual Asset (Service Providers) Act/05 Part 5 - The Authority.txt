@@ -1,4 +1,4 @@
- Part 5 – The Authority: powers and enforcement 
+Part 5 – The Authority: powers and enforcement 
 
 24. Powers and duties of the Authority 
 
@@ -38,13 +38,31 @@ services and regulated activities that include the use of virtual assets.
 (2) The Authority may, in writing, authorise any other person to assist it to carry 
 out its functions under this Act. 
 
+(2A)In the performance of its functions under this Act, the Authority may, at all 
+reasonable times, require a person whom the Authority reasonably believes is carrying 
+on virtual asset service in contravention of the Act to provide —
+
+ (a) access to, and to allow copies to be made of, any books, records and documents;
+ (b) access to any cash, virtual assets and securities; and
+ (c) information or explanation,
+
+as the Authority may reasonably require for the performance of its functions under this Act.
+
+(2B) For the purpose of performing its duties under subsection (1)(b), the Authority 
+may, at the expense of the virtual asset service provider, authorise in writing a 
+person with the requisite technical expertise to examine the affairs or business of 
+a licensee, registered person or other person carrying on virtual asset services and 
+to report to the Authority the results of the examination.
+
+(2C) The Authority, in the performance of its functions, is entitled to access at 
+reasonable times the necessary books and records and to request any information or 
+thing from any person as it may reasonably required to enable the Authority to perform 
+its functions.
+
 (3) A person who knowingly or recklessly provides any information to the 
 Authority which is false or misleading in a material respect commits an offence 
 and is liable on summary conviction to a fine of ten thousand dollars and to 
 imprisonment for six months. 
-
-(4) The Authority may, by Order, provide for the listing of newly created virtual 
-assets. 
 
 25. Enforcement powers of the Authority 
 
@@ -82,8 +100,8 @@ Partnership Act (2021 Revision), and has contravened that Part; or
 
  (a) revoke the virtual asset service licence or a sandbox licence or cancel the 
 registration; 
- (b) impose conditions or further conditions upon the licence or amend or 
-revoke any such conditions; 
+ (b) impose conditions or further conditions on the licence or registration or 
+amend or revoke any such conditions; 
  (c) apply to the court for any order which is necessary to protect the interests 
 of clients or creditors of the licensee or registered person; 
  (d) publish in the Gazette and in any official publications of the Authority, a 
@@ -105,15 +123,15 @@ the circumstances referred to in paragraphs (a) to (g);
  (i) in the case of a virtual asset service provider who is also regulated or 
 supervised for virtual asset services in another jurisdiction, notify the 
 relevant regulator or government entity in the respective jurisdictions of 
-the failure to comply with the directive of the Authority; 
- (j) at the expense of the licensee, appoint a person to advise the licensee on 
-the proper conduct of its affairs and to report to the Authority thereon; or 
- (k) at the expense of the licensee, appoint a person who shall be known as the 
-Authority’s appointed controller, to assume control of the licensee’s affairs 
-who shall, subject to necessary modifications, have all the powers of a 
-person appointed as a receiver or manager of a business appointed under 
-section 18 of the Bankruptcy Act (1997 Revision). 
-
+the failure to comply with the directive of the Authority;
+ (j) at the expense of the licensee or registered person, appoint a person to 
+advise the licensee on the proper conduct of its affairs and to report to the 
+Authority thereon; or 
+ (k) at the expense of the licensee or registered person, appoint a person who 
+shall be known as the Authority’s appointed controller, to assume control of 
+the licensee’s affairs who shall, subject to necessary modifications, have all 
+the powers of a person appointed as a receiver or manager of a business appointed 
+under section 18 of the Bankruptcy Act (1997 Revision). 
 
 (4) Where the Authority decides to take action under subsections (3)(a) to (3)(i), it 
 shall notify the virtual asset service provider in writing, specifying the 
@@ -141,10 +159,11 @@ or (3)(k);
  (c) subject to such conditions as the Authority may impose, allow the licensee 
 or registered person to reorganise its affairs in a manner approved by the 
 Authority; or 
- (d) revoke the licence and apply to the court for an order that the licensee, if 
-the licensee is a company, be wound up by the court in which case the 
-provisions of the Companies Act (2022 Revision) relating to the winding 
-up of a company shall apply. 
+ (d) revoke the licence or cancel the registration and apply to the court for an 
+order that the virtual asset service provider, if the virtual asset service provider 
+is a company, be wound up by the court and, in the event of the winding up, the 
+provisions of the Companies Act (2023 Revision) relating to the winding up of a 
+company shall apply.
 
 (7) Notwithstanding any other provision in this Act, the Authority may revoke a 
 virtual asset service licence, a sandbox licence or cancel the registration if the 
@@ -161,18 +180,25 @@ in the Gazette.
 (1) Where the Authority is of the opinion that a virtual asset service provider is — 
 
  (a) carrying out, or about to carry out, an act that is an unsafe or an unsound 
-practice in conducting the business of the virtual asset service provider; or 
+practice in conducting the business of the virtual asset service provider; 
  (b) pursuing, or about to pursue, a course of conduct that is an unsafe or an 
 unsound practice in the conduct of the business of the virtual asset service 
-provider, 
+provider; or
+ (c) registered and does not hold a licence but is publicly stating, implying 
+or conveying that it is licensed in accordance with this Act;
 
 the Authority may direct the virtual asset service provider, in relation to the 
 virtual asset service, to cease or refrain from carrying out the act or pursuing the 
 course of conduct and to carry out such acts as are necessary, in the opinion of 
 the Authority, to remedy or ameliorate its conduct. 
 
+(1A)Where the Authority is of the opinion that a natural person is providing virtual 
+asset service in contravention of section 4(2) the Authority shall direct the natural 
+person, in relation to the virtual asset service, to cease or desist from carrying 
+out the act or pursuing the course of conduct.
+
 (2) A person who, without reasonable cause, fails to comply with a direction given 
-by the Authority under subsection (1), commits an offence and is liable — 
+by the Authority under subsection (1) or (1A), commits an offence and is liable — 
  (a) on summary conviction, to a fine of fifty thousand dollars or to 
 imprisonment for one year, or to both; or 
  (b) on conviction on indictment, to a fine of one hundred thousand dollars or 
@@ -181,28 +207,23 @@ to imprisonment for five years or to both,
 and if the offence continues after conviction, the person shall be liable to a fine 
 of ten thousand dollars for every day on which the offence continues. 
 
-(3) If the Authority knows, or has reasonable grounds to believe, that any of the acts 
-referred to in section 25(2)(b) through (g) have occurred in relation to a virtual 
-asset service provider, the virtual asset service provider commits a breach and 
-may be liable to an administrative fine by virtue of Part VIA of the Monetary 
-Authority Act (2020 Revision). 
+27. Revocation of licence or cencellation of registration
 
-27. Revocation of licence 
+(1) The Authority may revoke a virtual asset service licence “, revoke a sandbox licence, 
+cancel a registration or cancel the approval for a virtual asset issuance where it is 
+of the opinion that — 
 
-(1) The Authority may revoke a virtual asset service licence or a sandbox licence 
-where it is of the opinion that — 
-
- (a) the licensee has failed to comply with an obligation imposed on it by this 
-Act; 
- (b) the licensee is carrying on business in a manner that is not permitted by 
-the licence; 
+ (a) the virtual asset service provider has failed to comply with an obligation imposed on 
+it by this Act; 
+ (b) the virtual asset service provider is carrying on business in a manner that is not 
+permitted by the licence or the conditions of its registration; 
  (c) the Authority has been provided with false, misleading or inaccurate 
-information by or on behalf of the licensee or a person who is a senior 
-officer or trustee of the licensee; 
- (d) the interests of the clients or potential clients of the licensee are threatened; 
-or  
- (e) the licensee has contravened the Anti-Money Laundering Regulations 
-(2020 Revision).
+information by or on behalf of the virtual asset service provider or a person who 
+is a senior officer or trustee of the virtual asset service provider; 
+ (d) the interests of the clients or potential clients of the virtual asset service 
+provider are threatened; or  
+ (e) the virtual asset service provider has contravened the Anti-Money Laundering 
+Regulations (2020 Revision).
 
 (2) Where the Authority revokes a virtual asset service licence under subsection (1), 
 it shall publish a notice to that effect forthwith in the Gazette. 
@@ -226,9 +247,9 @@ referred to in that subsection are fit and proper persons to have such control o
 ownership. 
 
 (4) For the avoidance of doubt, references to shares representing ten per cent or 
-more of the total voting rights or ownership of a legal person include the 
+more of the total voting rights or ownership of a company or partnership include the 
 cumulative acquisition of shares, voting rights which amount to ten per cent or 
-more of the total voting rights of the legal person or legal arrangement and a 
+more of the total voting rights of the company or partnership and a 
 reference to shares being transferred or disposed of includes the transfer or 
 disposal of the legal or the beneficial interest in the shares or interests. 
 
@@ -299,8 +320,7 @@ employment carried on by that person.
  (c) cancellation of registration; 
  (d) to take enforcement action under section 25; 
  (e) for refusal of an application for virtual asset issuance; and 
- (f) for refusal of an application of an existing licensee to engage in virtual 
-asset service. 
+ (f) for refusal of a waiver under section 16 for a supervised person to engage in virtual asset service.
 
 (2) An appeal against the decision of the Authority shall be by way of motion. 
 
@@ -333,41 +353,36 @@ the effect of suspending the execution of the decision.
 
 31. Audit of accounts 
 
-(1) A virtual asset service licensee shall have its accounts audited annually or at 
-such times as the Authority may require by an auditor approved by the Authority 
-who shall be a member of — 
+(1) Every licensee shall have its accounts audited annually 
+or at such other times as the Authority may require by an auditor who shall be a 
+chartered accountant, certified public accountant or other professionally qualified 
+accountant approved by the Authority.
 
- (a) the Institute of Chartered Accountants in England and Wales; 
- (b) the Canadian Institute of Chartered Accountants; 
- (c) the Chartered Association of Certified Accountants; 
- (d) the American Institute of Certified Public Accountants; or 
- (e) such other accounting professional body or institute approved by the 
-Authority. 
+(2) The audited accounts shall be forwarded to the Authority within six months of 
+the end after the financial year of the licensee unless prior written approval for 
+an extension has been granted by the Authority.
 
-(2) Within six months of the end of a licensee’s financial year, the licensee shall 
-forward to the Authority the audited accounts for the financial year just ended. 
+(2A) A licensee shall forward to the Authority consolidated accounts in respect of 
+the parent undertaking of the group of which the licensee is a member within three 
+months after the end of the financial year of the parent undertaking of the group 
+unless prior written approval for an extension has been granted by the Authority.
 
-(3) Any licensee who fails to comply with subsection (2) within the stated period 
+(3) Any licensee who fails to comply with subsection (2) or (2A) within the stated period 
 or any extension to the period granted by the Authority for good cause shown, 
 is liable to a late filing fee of fifty dollars for each day or part thereof that the 
 licensee fails to comply. 
-
-(4) The Authority may exempt a virtual asset service licensee from the audit 
-requirement under subsection (1) if the Authority determines the requirement to 
-be unnecessary or prohibitive given — 
-
- (a) the size, scope and complexity of the economic activity; and 
- (b) the availability of auditing services for the virtual asset service. 
 
 (5) When a licensee who is required to provide audited accounts to the Authority 
 changes its auditor, the Authority may require the former auditor to explain in 
 writing the circumstances giving rise to the change. 
 
-(6) If it appears to the Authority that an auditor has failed to comply with the 
-requirements in section 32(1), the Authority may disqualify the auditor from 
-being an auditor of a licensee but the Authority may remove any disqualification 
-imposed under this subsection if it is satisfied that the person in question will in 
-future comply with the requirements. 
+(6) If it appears to the Authority that an auditor has failed to comply with the
+requirements in section 32(1), the Authority may disqualify the auditor from being 
+an auditor of a licensee.
+
+(6A) The Authority may remove any disqualification imposed under subsection (6) 
+if it is satisfied that the person in question will in future comply with the 
+requirements in section 32(1).
 
 (7) A licensee shall not appoint as an auditor a person disqualified under subsection 
 
@@ -389,13 +404,17 @@ Limited Liability Partnership Act (2021 Revision), if the licensee is a
   (iv) a condition of the licence or registration; 
  (c) is carrying on or attempting to carry on business in a manner that is 
 prejudicial to its clients or is winding up its business voluntarily in a 
-manner that is prejudicial to its clients or creditors; or 
+manner that is prejudicial to its clients or creditors; 
  (d) is carrying on or attempting to carry on business without maintaining any 
 or sufficient accounting records or record keeping systems to enable the 
-auditor to carry out an audit or produce a report, 
+auditor to carry out an audit or produce a report; or
+ (e) is carrying on or attempting to carry on business in a fraudulent or criminal manner,
 
-the auditor shall immediately give the Authority and the licensee written notice 
-of the knowledge or belief and giving reasons therefor. 
+the auditor shall , subject to subsection (1A), immediately give the Authority and 
+the licensee written notice of the knowledge or belief and giving reasons therefor. 
+
+(1A) Written notice under subsection (1) shall only be given to the licensee if 
+the notice does not impede the obligations of the auditor.
 
 (2) An auditor who contravenes subsection (1) is liable to removal by the Authority 
 from its list of approved auditors. 
@@ -417,58 +436,58 @@ done in the discharge or proposed discharge of the auditor’s functions under t
 Act in relation to the preparation of a report or in relation to any notice given 
 under subsection (1) unless it is shown that the act or omission was in bad faith. 
 
+(6) A person who contravenes subsection (1) commits an offence and is liable on 
+summary conviction to a fine of twenty thousand dollars.
+
 33. Entry and search of premises 
 
-(1) If the court, on sworn information on oath, is satisfied that the conditions in 
-subsection (2) are fulfilled and either — 
+(1) If a magistrate is satisfied by information on oath given by the Authority 
+or by a person authorised under section 24(2B) to assist the Authority that either —
 
- (a) that admission to the premises has been refused, or that a refusal is 
-expected, and that reasonable notice of the intention to apply for the 
-warrant has been given to the occupier; 
- (b) that an application for admission, or the giving of such a notice, would 
-defeat the object of the entry; or 
- (c) that the case is one of urgency, or that the premises are unoccupied or that 
-the occupier is temporarily absent, 
+ (a) there is reasonable ground for suspecting that an offence against this Act, 
+the Proceeds of Crime Act (2020 Revision), the Anti-Money Laundering Regulations 
+(2023 Revision), or the Beneficial Ownership Transparency Act, 2023 , has been or 
+is being committed and that evidence of the commission of the offence is to be found 
+at any premises, or in any electronic device, or platform, or computer, specified in 
+the information; or
+ (b) books, records, vouchers, documents, cash, virtual assets or securities which 
+ought to have been produced under section 24(2A) and have not been produced are to 
+be found at any premises or in any electronic device or platform or computer specified 
+in the information,
 
-the court may, by warrant signed by a judge, authorise a constable of the rank 
-of inspector or above to enter the premises, if need be, by reasonable force. 
+the magistrate may authorise the Authority, a person authorised under section 24(2B) 
+or any constable of the rank of Inspector or above, together with any other person 
+named in the warrant and any other constables, to enter the premises specified in the 
+information in which the electronic device or platform or computer so specified may be, 
+at any time within one month from the date of the warrant, and to search the premises, 
+electronic device or platform or computer.
 
-(2) The conditions referred to in subsection (1) are that there are reasonable grounds 
-for suspecting that — 
+(2) The person authorised by the warrant under subsection (1) to conduct a search may —
 
- (a) there is or has been, on the premises to which entry is sought, any 
-contravention of this Act or the Proceeds of Crime Act (2020 Revision); or 
- (b) there is on those premises evidence of any contravention of this Act or — 
-  (i) the Proceeds of Crime Act (2020 Revision); 
-  (ii) Part XVIIA of the Companies Act (2022 Revision); 
-  (iii) Part 12 of the Limited Liability Companies Act (2021 Revision); or 
-  (iv) Part 8 of the Limited Liability Partnership Act (2021 Revision). 
+ (a) search every person who is found in, or whom that person has reasonable grounds to 
+believe to have recently entered or is about to enter, the premises or had access to 
+the electronic device, platform or computer; and
+ (b) may seize any books, records, vouchers, documents, cash, virtual assets or 
+securities -
+  (i) in the possession of any person referrer to in paragraph (a);
+  (ii) in the premises specified in the information; or 
+  (iii) stored on an electronic device, platform or computer
+which the person authorised by the warrant has reasonable grounds for believing
+ought to have been produced under section 24(2A).
 
-(3) Every warrant granted under this section shall continue in force for a period of 
-one month. 
+(3) Where under this section a person has any power to enter any premises that person 
+may use such force as is reasonably necessary for the purpose of exercising that power.
 
-(4) A constable entering any premises by virtue of this section may be accompanied 
-by such employees of, or advisers to, the Authority as may be necessary to 
-ensure the successful execution of the warrant. 
+(4) A person who obstructs the Authority or any other person in the exercise of any 
+powers conferred on it or that person under this section commits an offence and is 
+liable on summary conviction to a fine of ten thousand dollars or to imprisonment for 
+one year or both.
 
-(5) The constable authorised by any such warrant to search any premises may, if so 
-authorised by the warrant, search every person who is found in those premises 
-and may seize any documents, computer hardware or mobile devices found in 
-the possession of any such person or in such premises which the constable has 
-reasonable ground for believing ought to have been produced pursuant to a 
-lawful request from the Authority. 
-
-(6) A person who wilfully obstructs a constable in the exercise of any powers 
-conferred on the constable by this section commits an offence and is liable on 
-summary conviction to a fine of one hundred thousand dollars and to 
-imprisonment for five years. 
-
-(7) The Rules Committee of the Grand Court may make rules for the purposes of 
-this section. 
+(5) For the purposes of this section, “premises” includes any vehicle, vessel or aircraft.
 
 34. Winding up 
 
-(1) The Authority may apply to the court for a licensee or a registered person, or a 
+(1) The Authority may apply to the court for a licensee or a supervised person, or a 
 former licensee or registered person, that is or has been in contravention of 
 section 4(1) to be wound up by the court, notwithstanding any winding up of the 
 company voluntarily. 
