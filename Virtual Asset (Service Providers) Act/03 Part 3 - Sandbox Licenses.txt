@@ -35,7 +35,7 @@ sector.
 
 (1) The Authority may require — 
 
-(a) a person applying to be registered or a registered person; or 
+(a) a person applying to be registered or a supervised person; or 
 (b) a person applying for a virtual asset service licence or a virtual asset 
 service licensee, 
 
@@ -44,7 +44,7 @@ to apply, instead, for a sandbox licence where the Authority determines that —
 or uses an innovative method of delivery that requires supervision 
 and oversight that is not offered by a licence or registration under this 
 Act or any other law; 
-  (ii) it is in the best interest of the public, existing licensees, licensees, 
+  (ii) it is in the best interest of the public, supervised persons, licensees, 
 registered persons or the financial markets for the virtual asset 
 service to be temporarily restricted or for specific requirements to be 
 placed temporarily on the provision of the virtual asset service; 
@@ -67,7 +67,7 @@ Authority may specify.
 (3) A fintech service provider may, but is not required to, apply for a sandbox 
 licence in such manner as may be specified by the Authority. 
 
-(4) An existing licensee who has provided notice and has been directed by the 
+(4)  a supervised person who has provided notice and has been directed by the 
 Authority to apply for a sandbox licence shall do so in the manner specified by 
 the Authority. 
 
@@ -83,7 +83,7 @@ notification, the Authority shall cancel its approval of the sandbox licence.
 support of the application as the Authority may specify. 
 
 (8) The Authority in reviewing an application under this section shall take into 
-consideration the matters set out in section 22. 
+consideration the fintech service and its probable effects on financial service business. 
 
 20. Compliance with applicable requirements 
 
@@ -180,4 +180,4 @@ licensee where —
 longer considers the sandbox licence necessary. 
 
 (3) A fintech service provider who holds a sandbox licence may choose to surrender 
-the licence at any time by providing notice to that effect to the Authority.
+the licence at any time by providing notice to that effect to the Authority. 
