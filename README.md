@@ -3,7 +3,7 @@
         <img src="https://www.mfs.ky/wp-content/uploads/2019/11/dfs.png" alt="Ministry for Financial Services"/>
       </div>
       <div class="text">
-        <h1>Consutlation by the Ministry for Financial Services and Commerce on proposed changes to the Virtual Asset (Service Providers) Act</h1>
+        <h1>Consultation by the Ministry for Financial Services and Commerce on proposed changes to the Virtual Asset (Service Providers) Act</h1>
       </div>
 </div></p><br>
 <b>Virtual-Asset-Service-Providers-Act (the "Act")</b><br><br>
