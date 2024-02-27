@@ -18,7 +18,7 @@
 <p>Proposed changes to the Legislation can be found <a href="https://github.com/MinistryFinancialServices/Virtual-Asset-Amendment-Consultation/tree/main/Virtual%20Asset%20(Service%20Providers)%20Act">Here</a><br>
 Comparative changes can be seen by clicking on a file and clicking on "history"</p>
 
-<p>Participants may reffer to PDF versions of the consultation note and draft legislation <a href="https://github.com/MinistryFinancialServices/Virtual-Asset-Amendment-Consultation/tree/main/PDF_Documents">Here</a></p>
+<p>Participants may refer to PDF versions of the consultation note and draft legislation <a href="https://github.com/MinistryFinancialServices/Virtual-Asset-Amendment-Consultation/tree/main/PDF_Documents">Here</a></p>
 <p>Discussions may take place in the Discussions forum <a href="https://github.com/MinistryFinancialServices/Virtual-Asset-Amendment-Consultation/discussions">Here</a></p>
 <p>And to report an issue, or create a ticket for discussion, click <a href="https://github.com/MinistryFinancialServices/Virtual-Asset-Amendment-Consultation/issues">Here</a></p>
 
