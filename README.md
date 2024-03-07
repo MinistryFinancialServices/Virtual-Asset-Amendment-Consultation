@@ -33,7 +33,7 @@ Comparative changes can be seen by clicking on a file and clicking on "history"<
 
 <b>Timeframe</b><br>
 
-<p>The Ministry will keep this Platform opened until March 20th, 2024 and reserves the right to close the repository at any time and without warning.</p><br>
+<p>The Ministry will keep this Platform opened until April 3rd, 2024 and reserves the right to close the repository at any time and without warning.</p><br>
 
 <b>Licensing Regime</b><br>
 
